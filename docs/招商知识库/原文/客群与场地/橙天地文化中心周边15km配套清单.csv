@@ -1,0 +1,887 @@
+﻿类别,名称,细类,距离_km,纬度,经度,地址,OSM类型,OSM_id,来源
+住宅区,同德晨曦园,residential,0.3,34.297885,108.709476,,way,1018709752,OpenStreetMap
+住宅区,沣西新城,suburb,0.35,34.293447,108.710091,,node,11286420979,OpenStreetMap
+住宅区,怡莘花园,residential,0.55,34.300265,108.715366,,way,1018709808,OpenStreetMap
+住宅区,西部云谷-二期,residential,0.57,34.294356,108.717816,秦都区 同德路,way,1018741390,OpenStreetMap
+住宅区,钓台街道,suburb,0.62,34.301251,108.714783,,node,2470141389,OpenStreetMap
+住宅区,东张村,village,0.86,34.288491,108.712627,,node,14109980470,OpenStreetMap
+住宅区,佳美花园,residential,0.96,34.304364,108.70856,,way,1019719807,OpenStreetMap
+住宅区,金科·世界城,residential,1.24,34.307354,108.712165,,way,1019719817,OpenStreetMap
+住宅区,西部云谷1期,residential,1.25,34.293478,108.698842,秦都区 丰耘路,way,1018671227,OpenStreetMap
+住宅区,枫溪美郡,residential,1.29,34.296436,108.698005,,way,1018671244,OpenStreetMap
+住宅区,沣西新城康定和园,residential,1.35,34.296601,108.726685,,way,1018741445,OpenStreetMap
+住宅区,吾悦公馆,residential,1.37,34.303924,108.723576,,way,1019369956,OpenStreetMap
+住宅区,金悦城,residential,1.4,34.308706,108.710473,,way,1019719812,OpenStreetMap
+住宅区,隆桥瑞苑,residential,1.53,34.294164,108.728437,,way,1018741431,OpenStreetMap
+住宅区,宜家沣都,residential,1.56,34.308936,108.719061,,way,1019719848,OpenStreetMap
+住宅区,安谷苑小区,residential,1.8,34.305666,108.696072,,way,1551317258,OpenStreetMap
+住宅区,田家堡村,village,2.04,34.303015,108.691388,,node,14109980463,OpenStreetMap
+住宅区,陈杨寨街道,suburb,2.36,34.315199,108.700487,,node,3079732088,OpenStreetMap
+住宅区,西张村,village,2.41,34.282977,108.691234,,node,14109980469,OpenStreetMap
+住宅区,沣西·逸园,residential,2.52,34.277476,108.696608,,way,1018195551,OpenStreetMap
+住宅区,沣润和园,residential,2.53,34.310616,108.733243,,way,1019311398,OpenStreetMap
+住宅区,张后头村,village,2.55,34.286966,108.686578,,node,14109980468,OpenStreetMap
+住宅区,五席坊村,village,2.67,34.279256,108.732583,,node,14109980475,OpenStreetMap
+住宅区,龙湖景粼玖序,residential,2.75,34.274248,108.698118,,way,1317499365,OpenStreetMap
+住宅区,辛旺西村,village,2.82,34.272607,108.723227,,node,14109980473,OpenStreetMap
+住宅区,段村,village,2.84,34.321589,108.714927,,node,14109980461,OpenStreetMap
+住宅区,辛旺东村,village,2.85,34.273936,108.727454,,node,14109980474,OpenStreetMap
+住宅区,曹家寨村,village,2.95,34.298175,108.679951,,node,14109980462,OpenStreetMap
+住宅区,上善嘉苑 11 号楼,neighbourhood,3.07,34.319802,108.729301,,node,9936538813,OpenStreetMap
+住宅区,上善嘉苑,neighbourhood,3.08,34.320062,108.729116,,way,1084349264,OpenStreetMap
+住宅区,上善嘉苑 12 号楼,neighbourhood,3.08,34.320227,108.728692,,node,9936538814,OpenStreetMap
+住宅区,怡水花园,residential,3.13,34.323597,108.71993,,way,1547258379,OpenStreetMap
+住宅区,东马坊村,village,3.2,34.267482,108.709752,,node,14109980471,OpenStreetMap
+住宅区,五席坊东村,village,3.38,34.274451,108.737776,,node,14109980476,OpenStreetMap
+住宅区,科为城学府,residential,3.38,34.276858,108.683568,,way,1018163982,OpenStreetMap
+住宅区,新沣和园北区,residential,3.43,34.267118,108.699394,,way,1317498211,OpenStreetMap
+住宅区,清渭公馆,residential,3.43,34.325168,108.724677,,way,1500135738,OpenStreetMap
+住宅区,新业佳苑,residential,3.51,34.276803,108.681827,,way,1018163983,OpenStreetMap
+住宅区,华润沣华九里,residential,3.68,34.273584,108.682741,,way,1317498214,OpenStreetMap
+住宅区,天福和园,residential,3.77,34.277601,108.677703,,way,591373138,OpenStreetMap
+住宅区,新沣和园南区,residential,3.77,34.263909,108.6995,,way,1317498212,OpenStreetMap
+住宅区,严小村,village,3.8,34.263297,108.723206,,node,14109980472,OpenStreetMap
+住宅区,紫薇樾湾府,residential,3.8,34.286324,108.672385,,way,1317529988,OpenStreetMap
+住宅区,沣水园-1号院,residential,3.85,34.300209,108.753644,,way,1002318448,OpenStreetMap
+住宅区,科为城臻府,residential,3.85,34.271386,108.68276,,way,1317499368,OpenStreetMap
+住宅区,万科沣华锦鸣,residential,3.91,34.26342,108.696663,,way,1317498213,OpenStreetMap
+住宅区,科为城熙府,residential,3.94,34.273605,108.67896,,way,1317498216,OpenStreetMap
+住宅区,蓝光雍锦湾,residential,4.05,34.281178,108.671795,,way,1018164018,OpenStreetMap
+住宅区,理想欣港湾,residential,4.08,34.271385,108.679215,,way,1317498217,OpenStreetMap
+住宅区,沣水园-2号院,residential,4.19,34.298886,108.757503,,way,970265902,OpenStreetMap
+住宅区,华泰世纪华城小区,residential,4.22,34.3341,108.713845,,way,153341719,OpenStreetMap
+住宅区,王道新苑,residential,4.42,34.264613,108.682733,,way,1317049966,OpenStreetMap
+住宅区,人民路街道,suburb,4.43,34.336052,108.711607,,node,11535565521,OpenStreetMap
+住宅区,沣水园三号院,residential,4.46,34.298058,108.760501,,way,970265900,OpenStreetMap
+住宅区,中山街道,suburb,4.51,34.334921,108.726633,,node,11535565510,OpenStreetMap
+住宅区,星岛假日,residential,4.52,34.319087,108.752637,,way,970259881,OpenStreetMap
+住宅区,上林街道,suburb,4.62,34.321518,108.751868,,node,2470141400,OpenStreetMap
+住宅区,新新佳园,residential,4.62,34.319296,108.753799,,way,970259880,OpenStreetMap
+住宅区,江东新苑,residential,4.62,34.264658,108.679253,,way,1317049965,OpenStreetMap
+住宅区,世纪锦城,residential,4.69,34.319047,108.754976,,way,970259882,OpenStreetMap
+住宅区,屯铺村,village,4.92,34.252904,108.700868,,node,14109980477,OpenStreetMap
+住宅区,西北国棉一厂,residential,4.92,34.340364,108.714845,,way,293147996,OpenStreetMap
+住宅区,西兰路街道,suburb,5.01,34.339719,108.697857,,node,11535565522,OpenStreetMap
+住宅区,林凯·溢金湾,residential,5.03,34.330192,108.748107,,way,1547506417,OpenStreetMap
+住宅区,黄家寨,village,5.04,34.325757,108.753589,,node,9632018647,OpenStreetMap
+住宅区,丰京苑,residential,5.13,34.250387,108.718936,,way,608396498,OpenStreetMap
+住宅区,靠子屯,hamlet,5.13,34.252514,108.694152,,node,14109980478,OpenStreetMap
+住宅区,中国铁建-西派澜庭,residential,5.19,34.263328,108.671925,,way,1317049971,OpenStreetMap
+住宅区,高桥街道,suburb,5.23,34.249143,108.713433,,node,3011812879,OpenStreetMap
+住宅区,丽彩·溪岸庄园,residential,5.27,34.298887,108.654758,,way,1547923776,OpenStreetMap
+住宅区,西屯村,village,5.35,34.254944,108.681964,,node,14109980479,OpenStreetMap
+住宅区,香榭汇沣,residential,5.35,34.248824,108.722155,,way,999987918,OpenStreetMap
+住宅区,国润城,residential,5.46,34.31415,108.767292,,way,970259884,OpenStreetMap
+住宅区,新兴路街道,suburb,5.49,34.344,108.727022,,node,11535565511,OpenStreetMap
+住宅区,渭阳西路街道,suburb,5.49,34.334999,108.675075,,node,11535565524,OpenStreetMap
+住宅区,南洋公馆（建设中）,residential,5.6,34.267684,108.66178,,way,1317776517,OpenStreetMap
+住宅区,南洋东院小区,residential,5.64,34.260314,108.668588,,way,1017483370,OpenStreetMap
+住宅区,古渡街道,suburb,5.77,34.341709,108.681711,,node,11535565523,OpenStreetMap
+住宅区,紫气东来,residential,5.8,34.316955,108.769987,,way,970265895,OpenStreetMap
+住宅区,上林雅居小区,residential,5.93,34.317048,108.771425,,way,970265898,OpenStreetMap
+住宅区,梧桐中舍-浪漫花园,residential,6.0,34.265282,108.658521,,way,1017533274,OpenStreetMap
+住宅区,白桦林印象,residential,6.11,34.311275,108.776021,,way,970275574,OpenStreetMap
+住宅区,吴家堡街道,suburb,6.13,34.350746,108.701987,,node,11535565520,OpenStreetMap
+住宅区,铁中生活区,residential,6.14,34.351206,108.717974,,way,1446705539,OpenStreetMap
+住宅区,梧桐中舍,residential,6.17,34.263465,108.657732,,way,1017483350,OpenStreetMap
+住宅区,文汇路街道,suburb,6.2,34.351289,108.722322,,node,11535565512,OpenStreetMap
+住宅区,沣东新城沣科花园,residential,6.21,34.276212,108.775156,,way,970316394,OpenStreetMap
+住宅区,奥林匹克花园一二期,residential,6.3,34.314829,108.776762,,way,152773821,OpenStreetMap
+住宅区,沣东新城,suburb,6.38,34.264289,108.769687,,node,11286420978,OpenStreetMap
+住宅区,马家堡村,village,6.51,34.354448,108.704989,,node,14109980450,OpenStreetMap
+住宅区,渭阳街道,suburb,6.53,34.354415,108.721405,,node,11535565513,OpenStreetMap
+住宅区,奥林匹克花园3期,residential,6.56,34.316446,108.779111,,way,153518103,OpenStreetMap
+住宅区,梧桐西舍,residential,6.57,34.256984,108.658465,,way,1017533275,OpenStreetMap
+住宅区,海逸长洲,residential,6.6,34.244164,108.74645,,way,999902343,OpenStreetMap
+住宅区,渭滨街道,suburb,6.64,34.311186,108.642005,,node,2470141427,OpenStreetMap
+住宅区,芊域溪源,residential,6.69,34.268275,108.776463,,way,1001795284,OpenStreetMap
+住宅区,奥林匹克花园5-6期,residential,6.71,34.312832,108.782229,,way,153518105,OpenStreetMap
+住宅区,中铁七局三公司咸阳家属基地（东院）,residential,6.76,34.356938,108.71563,,way,1445755054,OpenStreetMap
+住宅区,招商雍景湾,residential,6.81,34.235335,108.719957,,way,999939798,OpenStreetMap
+住宅区,奥林匹克花园4期,residential,6.83,34.314862,108.782862,,way,153518106,OpenStreetMap
+住宅区,阳光城·上林府,residential,6.83,34.32049,108.780287,,way,697020887,OpenStreetMap
+住宅区,中铁七局三公司咸阳家属基地（西院）,residential,6.84,34.35772,108.713523,,way,1446279509,OpenStreetMap
+住宅区,南寨,village,6.86,34.278889,108.640278,,node,5762027879,OpenStreetMap
+住宅区,华宇豪庭小区,residential,6.87,34.357865,108.717155,,way,1445204459,OpenStreetMap
+住宅区,张旺渠村,village,6.91,34.238865,108.740889,,node,14104599902,OpenStreetMap
+住宅区,三丰阳光城,residential,6.92,34.358418,108.712006,,node,13270239614,OpenStreetMap
+住宅区,庄摆樊村,village,7.01,34.234904,108.694088,,node,14099046825,OpenStreetMap
+住宅区,天和苑小区,residential,7.02,34.359289,108.712906,,way,1446275051,OpenStreetMap
+住宅区,文林小区,residential,7.05,34.359607,108.71461,,way,1446275040,OpenStreetMap
+住宅区,长青花园小区,residential,7.09,34.359897,108.716296,,way,1446645840,OpenStreetMap
+住宅区,西延铁路咸阳小区,residential,7.12,34.360039,108.717392,,way,1446712598,OpenStreetMap
+住宅区,绿地沣东新里城,residential,7.13,34.263559,108.778765,,way,1001795267,OpenStreetMap
+住宅区,长途线务局家属院,residential,7.13,34.356756,108.686421,,way,926935978,OpenStreetMap
+住宅区,西西安小镇,residential,7.15,34.323634,108.782414,,way,292587472,OpenStreetMap
+住宅区,高新区,suburb,7.15,34.287601,108.634846,,node,11407256247,OpenStreetMap
+住宅区,领航·尚宸,residential,7.21,34.360883,108.717578,,way,1446276772,OpenStreetMap
+住宅区,官庄村,village,7.26,34.240018,108.752154,,node,14104566700,OpenStreetMap
+住宅区,马务村,village,7.27,34.230931,108.707113,,node,14099046824,OpenStreetMap
+住宅区,和园公寓,residential,7.29,34.252557,108.652731,,way,1017723391,OpenStreetMap
+住宅区,西咸新区,suburb,7.3,34.335127,108.776017,,node,11286420977,OpenStreetMap
+住宅区,恒大都市广场,residential,7.32,34.306802,108.790623,,way,969239168,OpenStreetMap
+住宅区,沣水云间,residential,7.32,34.234536,108.739944,,way,1090942271,OpenStreetMap
+住宅区,愿景园小区,residential,7.35,34.360169,108.73198,,way,320127081,OpenStreetMap
+住宅区,和盛花园,residential,7.38,34.284219,108.790997,,way,608116719,OpenStreetMap
+住宅区,庄河村,village,7.46,34.232066,108.688102,,node,14099046826,OpenStreetMap
+住宅区,阳光城壹号·上林悦,residential,7.51,34.321641,108.787729,,way,1387167261,OpenStreetMap
+住宅区,西安洺悦府,residential,7.57,34.323103,108.787661,,way,1387167260,OpenStreetMap
+住宅区,海逸长洲,residential,7.63,34.231499,108.739718,,way,1090942269,OpenStreetMap
+住宅区,渭滨新家园（东区）,residential,7.63,34.253172,108.647347,,way,1317516097,OpenStreetMap
+住宅区,绿城西安和庐,residential,7.65,34.325089,108.787558,,way,1387167262,OpenStreetMap
+住宅区,下泉村,village,7.66,34.240214,108.76063,,node,14104599901,OpenStreetMap
+住宅区,中南上悦城,residential,7.66,34.298197,108.795374,,way,1434250258,OpenStreetMap
+住宅区,大钧院,residential,7.66,34.252229,108.647854,,way,1317516098,OpenStreetMap
+住宅区,东郭旗寨村,village,7.75,34.364899,108.69808,,node,14109980445,OpenStreetMap
+住宅区,王寺街道,suburb,7.77,34.260349,108.784616,,node,11273984848,OpenStreetMap
+住宅区,渭滨新家园（西区）,residential,7.82,34.252796,108.645005,,way,1317516096,OpenStreetMap
+住宅区,创新港南区公寓（畅园）,residential,7.91,34.244434,108.65288,,way,1230119785,OpenStreetMap
+住宅区,保利和光尘樾,construction,7.97,34.284793,108.797609,,way,969239167,OpenStreetMap
+住宅区,落水村,village,8.04,34.243353,108.771702,,node,14104566699,OpenStreetMap
+住宅区,纪杨寨,village,8.09,34.264801,108.791421,,way,1001156468,OpenStreetMap
+住宅区,成家庄村,village,8.1,34.308247,108.625079,,node,14078743267,OpenStreetMap
+住宅区,宗家庄村,village,8.13,34.300625,108.623684,,node,14078743266,OpenStreetMap
+住宅区,北沙河村,village,8.18,34.222663,108.715181,,node,14099046823,OpenStreetMap
+住宅区,黄家寨村,village,8.18,34.369769,108.714516,,node,14109980449,OpenStreetMap
+住宅区,上泉村,village,8.23,34.239398,108.769385,,node,14104566698,OpenStreetMap
+住宅区,联庄村,village,8.4,34.225449,108.67984,,node,14099046827,OpenStreetMap
+住宅区,普渡村,village,8.47,34.232373,108.762261,,node,14104599903,OpenStreetMap
+住宅区,嘉欣花园,residential,8.5,34.26294,108.795298,,way,1001156465,OpenStreetMap
+住宅区,西沙河村,village,8.51,34.219647,108.710096,,node,14099046822,OpenStreetMap
+住宅区,下帝王村,village,8.52,34.354678,108.652053,,node,14109980444,OpenStreetMap
+住宅区,严家沟村,village,8.57,34.372887,108.702715,,node,14109980448,OpenStreetMap
+住宅区,马家窑村,village,8.59,34.371842,108.693102,,node,14109980447,OpenStreetMap
+住宅区,小泥河村,village,8.63,34.2197,108.695891,,node,14099046819,OpenStreetMap
+住宅区,创新港南区公寓（北苑）,residential,8.66,34.245264,108.640687,,way,1230127017,OpenStreetMap
+住宅区,万福花园-南区,residential,8.68,34.26,108.795727,,way,1001156486,OpenStreetMap
+住宅区,留印村,village,8.69,34.310409,108.618942,,node,14078743268,OpenStreetMap
+住宅区,花园村,village,8.7,34.228044,108.758592,,node,14104599904,OpenStreetMap
+住宅区,新沙河村,village,8.71,34.217997,108.717885,,node,14099046829,OpenStreetMap
+住宅区,黄家窑村,village,8.76,34.371735,108.684991,,node,14109980446,OpenStreetMap
+住宅区,创新港南区公寓（东苑）,residential,8.77,34.244051,108.640465,,way,1230123502,OpenStreetMap
+住宅区,沙河村,village,8.8,34.217092,108.714258,,node,14099046828,OpenStreetMap
+住宅区,西沙河,hamlet,8.84,34.217074,108.702821,,node,14099046821,OpenStreetMap
+住宅区,大寨北村,village,8.85,34.290379,108.615902,,node,14078743222,OpenStreetMap
+住宅区,创新港南区公寓（西苑）,residential,8.91,34.244049,108.638402,,way,1230119801,OpenStreetMap
+住宅区,车城温泉小区,residential,8.97,34.296001,108.809687,,way,1021040988,OpenStreetMap
+住宅区,启航佳苑,residential,9.01,34.303475,108.809693,,way,969242838,OpenStreetMap
+住宅区,宋东村,village,9.01,34.235293,108.647318,,node,4458885927,OpenStreetMap
+住宅区,大寨西村,village,9.04,34.286408,108.614357,,node,14078743221,OpenStreetMap
+住宅区,长安首府,residential,9.08,34.217983,108.740298,,way,1090923879,OpenStreetMap
+住宅区,王家院,hamlet,9.09,34.214519,108.707499,,node,14099046820,OpenStreetMap
+住宅区,王寺村,village,9.09,34.258393,108.799708,,way,997806685,OpenStreetMap
+住宅区,大泥河村,village,9.13,34.216701,108.687286,,node,14099046818,OpenStreetMap
+住宅区,北街村,village,9.19,34.221408,108.754579,,node,14104599908,OpenStreetMap
+住宅区,阎十村,village,9.21,34.281959,108.810811,,way,1019931426,OpenStreetMap
+住宅区,康北村,village,9.26,34.228842,108.652829,,node,4494642681,OpenStreetMap
+住宅区,司魏村,village,9.27,34.378217,108.730181,,node,14109980452,OpenStreetMap
+住宅区,康东村,village,9.27,34.226571,108.656434,,node,4494642680,OpenStreetMap
+住宅区,怡园教师小区,residential,9.28,34.260178,108.803133,,way,1019884029,OpenStreetMap
+住宅区,蓝光公园华府,residential,9.28,34.28479,108.812076,,way,1019931429,OpenStreetMap
+住宅区,保安滩,hamlet,9.31,34.247423,108.629672,,node,14109980480,OpenStreetMap
+住宅区,白家庄村,village,9.32,34.225312,108.766016,,node,14104599905,OpenStreetMap
+住宅区,南沣镐西村,village,9.36,34.234431,108.781272,,node,14104566696,OpenStreetMap
+住宅区,五庄村,village,9.39,34.380537,108.717327,,node,14109980451,OpenStreetMap
+住宅区,龚西村,village,9.43,34.373205,108.754921,,node,14109980454,OpenStreetMap
+住宅区,南丰村,village,9.46,34.234068,108.782278,,way,997740454,OpenStreetMap
+住宅区,康王村,residential,9.46,34.227452,108.651309,,way,448917430,OpenStreetMap
+住宅区,马泉街道,suburb,9.46,34.324557,108.614908,,node,2470141410,OpenStreetMap
+住宅区,南街村,village,9.49,34.217523,108.752004,,node,14104599907,OpenStreetMap
+住宅区,宋西村,village,9.5,34.234513,108.640516,,node,4458885926,OpenStreetMap
+住宅区,客省庄村,village,9.55,34.211556,108.729687,,node,14099046830,OpenStreetMap
+住宅区,碧桂园国湖,residential,9.56,34.240375,108.791102,,way,997705230,OpenStreetMap
+住宅区,新庄村,village,9.57,34.215371,108.676107,,node,14099046815,OpenStreetMap
+住宅区,南沣镐东村,village,9.59,34.233632,108.783804,,node,14104566697,OpenStreetMap
+住宅区,康王村,village,9.59,34.227292,108.649249,,node,4458884276,OpenStreetMap
+住宅区,康中村,village,9.64,34.226588,108.649482,,node,4494642678,OpenStreetMap
+住宅区,上帝王村,village,9.67,34.366599,108.650208,,node,14109980442,OpenStreetMap
+住宅区,段家村,village,9.71,34.268429,108.611761,,node,14078743219,OpenStreetMap
+住宅区,常白庄村,village,9.72,34.220752,108.765437,,node,14104599906,OpenStreetMap
+住宅区,新丰村,village,9.74,34.280592,108.607663,,node,14078743220,OpenStreetMap
+住宅区,华润二十四城,residential,9.8,34.292607,108.818607,,way,1019950030,OpenStreetMap
+住宅区,昆明澜庭,residential,9.81,34.23552,108.789562,,way,997664981,OpenStreetMap
+住宅区,湖光山色二期,residential,9.82,34.228757,108.780961,,way,1090952284,OpenStreetMap
+住宅区,保东村,village,9.83,34.240882,108.628535,,node,4458870872,OpenStreetMap
+住宅区,秦阿房宫职工小区,residential,9.85,34.256536,108.807868,,way,1019884038,OpenStreetMap
+住宅区,公园新世纪,residential,9.89,34.289309,108.819309,,way,1020491339,OpenStreetMap
+住宅区,启航佳境,residential,9.9,34.244253,108.799531,,way,997664906,OpenStreetMap
+住宅区,互助村,village,9.91,34.358628,108.634973,,node,14109980443,OpenStreetMap
+住宅区,龚东村,village,9.92,34.377119,108.757518,,node,14109980455,OpenStreetMap
+住宅区,康西村,village,9.97,34.225471,108.645405,,node,4494642679,OpenStreetMap
+住宅区,湖光山色一期,residential,10.01,34.228688,108.784131,,way,1090952283,OpenStreetMap
+住宅区,羊角寨,hamlet,10.07,34.381582,108.748699,,node,14109980453,OpenStreetMap
+住宅区,六合家园,residential,10.08,34.256243,108.810429,,way,1019884060,OpenStreetMap
+住宅区,太平庄,hamlet,10.08,34.214253,108.665013,,node,14099046816,OpenStreetMap
+住宅区,聚驾观景台,residential,10.11,34.260019,108.812987,,way,1019884096,OpenStreetMap
+住宅区,黄桥村,village,10.11,34.208255,108.683917,,node,14099046814,OpenStreetMap
+住宅区,天台温泉新嘉园,residential,10.14,34.276291,108.819716,,way,1019918520,OpenStreetMap
+住宅区,华宇凤凰城,residential,10.17,34.29083,108.822502,,way,1020491357,OpenStreetMap
+住宅区,马王村,village,10.18,34.20538,108.725846,,node,14099046831,OpenStreetMap
+住宅区,马泉村,village,10.19,34.321078,108.605252,,node,14078743270,OpenStreetMap
+住宅区,张海坡村,village,10.23,34.204173,108.709774,,node,14099046832,OpenStreetMap
+住宅区,西围新嘉园,residential,10.24,34.25769,108.813236,,way,1019884067,OpenStreetMap
+住宅区,东柏梁村,village,10.25,34.316111,108.820954,,node,14099106402,OpenStreetMap
+住宅区,润景怡园,residential,10.27,34.234419,108.795004,,way,997664930,OpenStreetMap
+住宅区,营日堡村,village,10.33,34.224456,108.640513,,node,4494642675,OpenStreetMap
+住宅区,石桥村,village,10.34,34.374711,108.772323,,node,14109980460,OpenStreetMap
+住宅区,渭城街道,suburb,10.39,34.374662,108.773505,,node,3011811573,OpenStreetMap
+住宅区,中海昆明路九号城屿墅,residential,10.4,34.258967,108.815852,,way,1019918480,OpenStreetMap
+住宅区,三桥安置新村,residential,10.45,34.289038,108.825381,,way,1020491375,OpenStreetMap
+住宅区,东兴村,village,10.46,34.211556,108.662331,,node,14099046817,OpenStreetMap
+住宅区,陈干村,village,10.47,34.272259,108.601826,,node,14078743218,OpenStreetMap
+住宅区,三桥街道,suburb,10.48,34.29321,108.825976,,node,11263770656,OpenStreetMap
+住宅区,时代华城(嘉汇华庭),residential,10.48,34.287044,108.825556,,way,970362681,OpenStreetMap
+住宅区,中海昆明路九号,residential,10.5,34.256195,108.815523,,way,999822404,OpenStreetMap
+住宅区,中建开元城,residential,10.53,34.294488,108.826659,,way,970345647,OpenStreetMap
+住宅区,金桥国际,apartments,10.53,34.290273,108.826361,未央区 双拥路,way,1020491376,OpenStreetMap
+住宅区,王车大村,village,10.55,34.390946,108.706464,,node,14081717073,OpenStreetMap
+住宅区,上召新村,village,10.59,34.378359,108.653662,,node,14109980439,OpenStreetMap
+住宅区,东石村,village,10.6,34.390114,108.69241,,node,14081717072,OpenStreetMap
+住宅区,富村,village,10.6,34.215351,108.650987,,node,4458884287,OpenStreetMap
+住宅区,双照街道,suburb,10.61,34.383811,108.666213,,node,11535565525,OpenStreetMap
+住宅区,汉唐新都汇,residential,10.66,34.290464,108.827871,,way,970362679,OpenStreetMap
+住宅区,史家堡村,village,10.68,34.218556,108.64367,,node,4494642676,OpenStreetMap
+住宅区,三桥镇住宅小区,residential,10.69,34.289326,108.828095,,way,970362684,OpenStreetMap
+住宅区,天玺龙景,residential,10.69,34.293306,108.828315,,way,970356532,OpenStreetMap
+住宅区,双拥花园公寓,residential,10.7,34.287439,108.827973,未央区 双拥路,way,970362682,OpenStreetMap
+住宅区,和平春天,residential,10.7,34.257539,108.818599,,way,999822386,OpenStreetMap
+住宅区,岳旗寨安置楼,residential,10.71,34.239497,108.806253,,way,997653277,OpenStreetMap
+住宅区,阿房宫村,village,10.71,34.271297,108.824589,,way,1019918515,OpenStreetMap
+住宅区,福源居小区,residential,10.72,34.28848,108.828359,,way,970362683,OpenStreetMap
+住宅区,宋家堡村,village,10.76,34.219574,108.640584,,node,4494642677,OpenStreetMap
+住宅区,大王村,village,10.77,34.369468,108.635252,,node,14109980441,OpenStreetMap
+住宅区,孟家村,village,10.78,34.319939,108.825847,,node,14099106401,OpenStreetMap
+住宅区,山岔沟,hamlet,10.8,34.381848,108.767474,,node,14109980456,OpenStreetMap
+住宅区,平陵邑丝路风情苑社区,quarter,10.82,34.370748,108.636238,,node,3792235746,OpenStreetMap
+住宅区,园丁苑,residential,10.83,34.288789,108.829572,,way,970362685,OpenStreetMap
+住宅区,陵照村,village,10.85,34.393408,108.721914,,node,14081717070,OpenStreetMap
+住宅区,龙西村,village,10.86,34.223478,108.633177,,node,4458885898,OpenStreetMap
+住宅区,李都村,village,10.91,34.378802,108.647869,,node,14109980440,OpenStreetMap
+住宅区,幸福家园,residential,10.94,34.288834,108.8308,,way,970362686,OpenStreetMap
+住宅区,格兰逸境,residential,10.94,34.284993,108.830334,,way,970362688,OpenStreetMap
+住宅区,芊域阳光,residential,10.94,34.338075,108.819749,,way,608396482,OpenStreetMap
+住宅区,锦绣新苑,residential,10.97,34.286871,108.830837,,way,970362689,OpenStreetMap
+住宅区,三桥新村,residential,11.0,34.284887,108.830919,,way,970362690,OpenStreetMap
+住宅区,漳浒寨街道,suburb,11.02,34.247079,108.816156,,node,11250452176,OpenStreetMap
+住宅区,和平丽苑,residential,11.07,34.25706,108.822741,,way,997806657,OpenStreetMap
+住宅区,富居花园,residential,11.09,34.287389,108.832256,,way,970362693,OpenStreetMap
+住宅区,石桥村,village,11.1,34.200074,108.67924,,node,14099046813,OpenStreetMap
+住宅区,美美佳园高层,residential,11.1,34.28641,108.83222,,way,970362691,OpenStreetMap
+住宅区,乔家沟,hamlet,11.12,34.382964,108.772152,,node,14109980457,OpenStreetMap
+住宅区,龙新村,village,11.13,34.220621,108.632662,,node,4458885899,OpenStreetMap
+住宅区,保利金香槟,residential,11.17,34.288757,108.833223,,way,970362694,OpenStreetMap
+住宅区,豆马村,village,11.18,34.330278,108.5975,,node,5764061940,OpenStreetMap
+住宅区,高堡子,hamlet,11.24,34.30787,108.833593,,node,14099106406,OpenStreetMap
+住宅区,石家台,hamlet,11.25,34.381759,108.777473,,node,14109980458,OpenStreetMap
+住宅区,低堡子,hamlet,11.28,34.310369,108.833614,,node,14099106405,OpenStreetMap
+住宅区,美美佳园,residential,11.28,34.28702,108.834307,,way,970362692,OpenStreetMap
+住宅区,肖里村,village,11.29,34.252505,108.822917,,way,997705224,OpenStreetMap
+住宅区,东大寨村,village,11.3,34.39771,108.706786,,node,14081717071,OpenStreetMap
+住宅区,二府营村,village,11.31,34.336153,108.825203,,node,14098952297,OpenStreetMap
+住宅区,大原村,village,11.32,34.194679,108.702156,,node,14099046811,OpenStreetMap
+住宅区,新民村,village,11.32,34.340848,108.822714,,node,14098952299,OpenStreetMap
+住宅区,保西村,village,11.37,34.233555,108.61418,,node,4458870871,OpenStreetMap
+住宅区,新庄村,village,11.37,34.395692,108.740668,,node,14081717067,OpenStreetMap
+住宅区,小寨村,village,11.39,34.366081,108.621349,,node,14076532531,OpenStreetMap
+住宅区,韩家村,village,11.44,34.275043,108.590175,,node,14078743217,OpenStreetMap
+住宅区,川流寨村,village,11.45,34.277117,108.589531,,node,14078743214,OpenStreetMap
+住宅区,曹寨村,village,11.45,34.193489,108.720567,,node,14099046833,OpenStreetMap
+住宅区,秦兴佳苑,residential,11.55,34.398989,108.693758,,way,1236768518,OpenStreetMap
+住宅区,高渡村,village,11.57,34.306705,108.586691,,node,14078743269,OpenStreetMap
+住宅区,西曹村,village,11.58,34.224726,108.803674,,node,14104566694,OpenStreetMap
+住宅区,石桥,hamlet,11.59,34.19498,108.681965,,node,14099046812,OpenStreetMap
+住宅区,齐家坡村,village,11.67,34.318056,108.587778,,node,5764061939,OpenStreetMap
+住宅区,纺织花园小区,residential,11.69,34.296052,108.584798,,way,1025473317,OpenStreetMap
+住宅区,泥河村,village,11.7,34.336649,108.829645,,node,14098952298,OpenStreetMap
+住宅区,雁雀门,hamlet,11.71,34.302357,108.839279,,node,14099106407,OpenStreetMap
+住宅区,南双凤村,village,11.73,34.311202,108.838421,,node,14099106404,OpenStreetMap
+住宅区,荷花名苑,residential,11.73,34.277899,108.837714,,way,970393257,OpenStreetMap
+住宅区,北双凤村,village,11.77,34.313488,108.838464,,node,14099106403,OpenStreetMap
+住宅区,西安市自来水总公司第三水厂小区,residential,11.78,34.274527,108.837472,,way,970393253,OpenStreetMap
+住宅区,雅何鑫苑,residential,11.79,34.278422,108.838522,,way,970393256,OpenStreetMap
+住宅区,梧桐村,village,11.8,34.199664,108.658669,,node,4458885941,OpenStreetMap
+住宅区,夏家寨村,village,11.82,34.363884,108.612723,,node,14076532526,OpenStreetMap
+住宅区,西凹里村,village,11.83,34.258336,108.832292,,way,997806637,OpenStreetMap
+住宅区,西纺三村,residential,11.83,34.276021,108.838406,,way,970393255,OpenStreetMap
+住宅区,东曹村,village,11.85,34.225099,108.80803,,node,14104566695,OpenStreetMap
+住宅区,紫薇西棠,residential,11.85,34.244435,108.824678,,way,997653242,OpenStreetMap
+住宅区,堰下张村,village,11.89,34.195234,108.754751,,node,14104566684,OpenStreetMap
+住宅区,大王东村,village,11.9,34.204031,108.646234,,node,4547918491,OpenStreetMap
+住宅区,戚家山,hamlet,11.91,34.393833,108.765301,,node,14081717068,OpenStreetMap
+住宅区,陈阡村,village,11.91,34.350209,108.599955,,node,14076532527,OpenStreetMap
+住宅区,至乐小区,residential,11.92,34.28313,108.84083,,way,970369857,OpenStreetMap
+住宅区,贾赵村,village,11.93,34.275326,108.584596,,node,14078743213,OpenStreetMap
+住宅区,新河庄,hamlet,11.94,34.19017,108.732712,,node,14099046834,OpenStreetMap
+住宅区,龙华小区,residential,12.0,34.284962,108.841879,,way,970369858,OpenStreetMap
+住宅区,西纺社区,residential,12.01,34.277847,108.840803,,way,970393261,OpenStreetMap
+住宅区,八一村,village,12.03,34.221249,108.806356,,node,14104566693,OpenStreetMap
+住宅区,陕一针小区,residential,12.12,34.278593,108.842176,,way,970393262,OpenStreetMap
+住宅区,定五村,village,12.15,34.217157,108.620726,,node,4449239519,OpenStreetMap
+住宅区,西纺·逸品园,residential,12.15,34.275346,108.841857,,way,970393266,OpenStreetMap
+住宅区,福星苑,residential,12.16,34.285034,108.843688,,way,970369859,OpenStreetMap
+住宅区,焦家村,village,12.17,34.321499,108.840889,,node,14098952276,OpenStreetMap
+住宅区,北堡,hamlet,12.19,34.353857,108.599158,,node,14078743272,OpenStreetMap
+住宅区,建章路街道,suburb,12.26,34.33301,108.837852,,node,3079728728,OpenStreetMap
+住宅区,陕棉十厂-四村,residential,12.26,34.277206,108.843472,,way,970393264,OpenStreetMap
+住宅区,周陵街道,suburb,12.28,34.405947,108.726647,,node,3015694110,OpenStreetMap
+住宅区,大王西村,village,12.3,34.202847,108.640298,,node,4547918490,OpenStreetMap
+住宅区,西纺四村小区,residential,12.3,34.277871,108.844009,,way,970393265,OpenStreetMap
+住宅区,新旺村,village,12.31,34.185662,108.719172,,node,14099046835,OpenStreetMap
+住宅区,海伦春天,residential,12.31,34.27151,108.842562,,way,970393252,OpenStreetMap
+住宅区,坡刘村,village,12.34,34.394328,108.774871,,node,14081717069,OpenStreetMap
+住宅区,警苑小区,residential,12.34,34.276173,108.844085,,way,970393267,OpenStreetMap
+住宅区,元村十二户,village,12.35,34.230557,108.603579,,node,4458870873,OpenStreetMap
+住宅区,摆旗寨村,village,12.35,34.386558,108.790176,,node,14109980459,OpenStreetMap
+住宅区,八家滩村社区,village,12.38,34.329969,108.840438,,node,14098952248,OpenStreetMap
+住宅区,元村十二户,residential,12.41,34.230486,108.60289,,way,1474936060,OpenStreetMap
+住宅区,定二村,village,12.41,34.213364,108.621501,,node,4449239516,OpenStreetMap
+住宅区,定舟村北堡,village,12.41,34.214927,108.619507,,node,4476322586,OpenStreetMap
+住宅区,定六村,village,12.43,34.215813,108.617961,,node,4449239520,OpenStreetMap
+住宅区,八兴滩村,village,12.44,34.347032,108.832713,,node,14098952300,OpenStreetMap
+住宅区,定四村,village,12.44,34.213658,108.620557,,node,4449239518,OpenStreetMap
+住宅区,春城十八里,residential,12.44,34.37652,108.806341,,way,737718940,OpenStreetMap
+住宅区,北皂河村,village,12.46,34.335941,108.838829,,node,14098952296,OpenStreetMap
+住宅区,符家,hamlet,12.47,34.295219,108.576206,,node,14078743223,OpenStreetMap
+住宅区,隆基泰和云玺领峯,residential,12.47,34.231212,108.822576,,way,996661625,OpenStreetMap
+住宅区,刘旗寨,hamlet,12.48,34.2166,108.807794,,node,14104566692,OpenStreetMap
+住宅区,万科金域缇香,residential,12.51,34.390623,108.786098,,way,1263155805,OpenStreetMap
+住宅区,元二村,village,12.53,34.218542,108.61319,,node,4457578419,OpenStreetMap
+住宅区,道张村,village,12.55,34.338889,108.585556,,node,5764061941,OpenStreetMap
+住宅区,蓝光玖珑台,residential,12.57,34.299417,108.575212,,way,1547747730,OpenStreetMap
+住宅区,定舟村,residential,12.58,34.211571,108.621107,,way,445264780,OpenStreetMap
+住宅区,5号楼,apartments,12.59,34.39007,108.788623,,way,1263397487,OpenStreetMap
+住宅区,下官道村,village,12.59,34.311083,108.576141,,node,14078743229,OpenStreetMap
+住宅区,张安村,village,12.59,34.382242,108.622828,,node,14076532535,OpenStreetMap
+住宅区,6号楼,apartments,12.6,34.390399,108.788351,,way,1263397488,OpenStreetMap
+住宅区,苏三村,village,12.6,34.384437,108.625961,,node,14076532536,OpenStreetMap
+住宅区,冯村,village,12.61,34.183195,108.700375,,node,14099046810,OpenStreetMap
+住宅区,11号楼,apartments,12.63,34.39078,108.788089,,way,1263397492,OpenStreetMap
+住宅区,梧桐年华,residential,12.63,34.273714,108.846708,,way,970393269,OpenStreetMap
+住宅区,雅居乐锦城,residential,12.63,34.268234,108.84526,,way,1035336919,OpenStreetMap
+住宅区,16号楼,apartments,12.65,34.391171,108.787866,,way,1263397498,OpenStreetMap
+住宅区,10号楼,apartments,12.67,34.390836,108.788901,,way,1263397491,OpenStreetMap
+住宅区,20号楼,apartments,12.67,34.391505,108.787624,,way,1263397496,OpenStreetMap
+住宅区,3号楼,apartments,12.67,34.390318,108.789698,,way,1263397486,OpenStreetMap
+住宅区,21号楼,apartments,12.68,34.391865,108.787216,,way,1263397495,OpenStreetMap
+住宅区,定一村,village,12.68,34.208259,108.624181,,node,4449239515,OpenStreetMap
+住宅区,12号楼,apartments,12.69,34.39118,108.788646,,way,1263397493,OpenStreetMap
+住宅区,7号楼,apartments,12.69,34.390672,108.789571,,way,1263397489,OpenStreetMap
+住宅区,太伟豪园,residential,12.69,34.377384,108.809103,,way,737718939,OpenStreetMap
+住宅区,中天熙悦,residential,12.7,34.380893,108.804774,,way,1263211058,OpenStreetMap
+住宅区,19号楼,apartments,12.72,34.39164,108.78839,,way,1263397497,OpenStreetMap
+住宅区,9号楼,apartments,12.72,34.391078,108.78945,,way,1263397490,OpenStreetMap
+住宅区,定舟村南堡,village,12.72,34.211296,108.619289,,node,4483927893,OpenStreetMap
+住宅区,22号楼,apartments,12.73,34.392008,108.787987,,way,1263397485,OpenStreetMap
+住宅区,中天峯悦,residential,12.73,34.391337,108.789081,,way,1263155806,OpenStreetMap
+住宅区,15号楼,apartments,12.75,34.391486,108.789314,,way,1263397494,OpenStreetMap
+住宅区,百花四村,residential,12.75,34.271586,108.847507,,way,970526615,OpenStreetMap
+住宅区,8号楼,apartments,12.76,34.390936,108.790424,,way,1263397481,OpenStreetMap
+住宅区,绿地国际花都,residential,12.76,34.243907,108.835592,,way,997225784,OpenStreetMap
+住宅区,18号楼,apartments,12.78,34.391874,108.78912,,way,1263397499,OpenStreetMap
+住宅区,上官道村,village,12.78,34.3175,108.575278,,node,5764061942,OpenStreetMap
+住宅区,南贺村,village,12.79,34.405518,108.755495,,node,14081717066,OpenStreetMap
+住宅区,13号楼,apartments,12.8,34.391411,108.790269,,way,1263397482,OpenStreetMap
+住宅区,23号楼,apartments,12.8,34.392233,108.788962,,way,1263397500,OpenStreetMap
+住宅区,井王村,village,12.82,34.347304,108.586888,,node,14076532524,OpenStreetMap
+住宅区,西燃阿房佳苑,residential,12.82,34.272885,108.848699,,way,970526610,OpenStreetMap
+住宅区,17号楼,apartments,12.83,34.391835,108.790112,,way,1263397483,OpenStreetMap
+住宅区,保利·天汇,residential,12.84,34.219843,108.816792,,way,1429426717,OpenStreetMap
+住宅区,元村,residential,12.84,34.217354,108.609929,,way,447650054,OpenStreetMap
+住宅区,夹城村,village,12.84,34.318486,108.849171,,node,14098952277,OpenStreetMap
+住宅区,郦景澜庭,residential,12.84,34.270954,108.848319,,way,970526614,OpenStreetMap
+住宅区,三民汉风苑-西区,residential,12.85,34.285686,108.851273,,way,970369862,OpenStreetMap
+住宅区,公园8号,residential,12.85,34.271655,108.848651,,way,970526613,OpenStreetMap
+住宅区,陈村,village,12.86,34.36461,108.599119,,node,14076532525,OpenStreetMap
+住宅区,25号楼,apartments,12.87,34.392464,108.789913,,way,1263397484,OpenStreetMap
+住宅区,豆马西,hamlet,12.87,34.329938,108.577936,,node,14078743271,OpenStreetMap
+住宅区,何苑新村,residential,12.88,34.276134,108.85002,,way,970526612,OpenStreetMap
+住宅区,定三村,village,12.88,34.20975,108.61868,,node,4449239517,OpenStreetMap
+住宅区,元三村,village,12.91,34.218119,108.608051,,node,4457578420,OpenStreetMap
+住宅区,民娄村,village,12.91,34.32421,108.848442,,node,14098952275,OpenStreetMap
+住宅区,新湾里,hamlet,12.92,34.273997,108.573931,,node,14078743212,OpenStreetMap
+住宅区,科创公寓公租房,residential,12.92,34.234527,108.831147,,way,1307273400,OpenStreetMap
+住宅区,简家村,residential,12.92,34.26386,108.847093,,way,1329421640,OpenStreetMap
+住宅区,元村,village,12.93,34.217421,108.608538,,node,4476322588,OpenStreetMap
+住宅区,中丰店村,village,12.94,34.183466,108.746833,,node,14104566682,OpenStreetMap
+住宅区,西二村,village,12.95,34.297027,108.571034,,node,14078743224,OpenStreetMap
+住宅区,阎家村,village,12.95,34.338669,108.843356,,node,14098952252,OpenStreetMap
+住宅区,铁锁村,village,12.98,34.327967,108.847991,,node,14098952249,OpenStreetMap
+住宅区,南何新村住宅小区,residential,13.0,34.273553,108.850808,,way,970526623,OpenStreetMap
+住宅区,西纺六村小区,residential,13.0,34.271676,108.85033,,way,970526617,OpenStreetMap
+住宅区,散区村,village,13.01,34.280575,108.571614,,node,14078743215,OpenStreetMap
+住宅区,元一村,village,13.02,34.216096,108.60863,,node,4457578418,OpenStreetMap
+住宅区,中国铁建西派国樾,residential,13.03,34.231804,108.830509,,way,996661615,OpenStreetMap
+住宅区,博大尚居,residential,13.04,34.270942,108.850578,,way,970526616,OpenStreetMap
+住宅区,苏家村,village,13.04,34.385252,108.619545,,node,14076532534,OpenStreetMap
+住宅区,兆伦村,village,13.05,34.185609,108.664372,,node,14099026466,OpenStreetMap
+住宅区,河头村,village,13.05,34.180354,108.734708,,node,14099046836,OpenStreetMap
+住宅区,石桥欣苑,residential,13.05,34.24415,108.839274,,way,973297630,OpenStreetMap
+住宅区,高新·天谷雅舍,residential,13.05,34.226833,108.8265,,way,996661634,OpenStreetMap
+住宅区,万国·远鉴名筑,residential,13.07,34.283888,108.853451,,way,970369875,OpenStreetMap
+住宅区,万科·金色悦郡,residential,13.07,34.289062,108.854015,,way,970369865,OpenStreetMap
+住宅区,苗驾庄村,village,13.07,34.18055,108.6869,,node,14099046809,OpenStreetMap
+住宅区,招商臻观府,residential,13.13,34.236671,108.835389,,way,1307273399,OpenStreetMap
+住宅区,西城华庭小区,residential,13.13,34.279877,108.853491,,way,970369877,OpenStreetMap
+住宅区,金色花语城,residential,13.14,34.286803,108.854566,,way,970369867,OpenStreetMap
+住宅区,凿齿北村,village,13.15,34.187276,108.65633,,node,4458885946,OpenStreetMap
+住宅区,百花一村,residential,13.17,34.272467,108.852445,,way,970526620,OpenStreetMap
+住宅区,亿润领城,residential,13.21,34.268209,108.851682,,way,970571276,OpenStreetMap
+住宅区,元北村,village,13.21,34.218258,108.603511,,node,4457578428,OpenStreetMap
+住宅区,小王店,village,13.22,34.202427,108.623634,,node,4458870865,OpenStreetMap
+住宅区,华洲城云顶,residential,13.23,34.244208,108.841526,,way,973297629,OpenStreetMap
+住宅区,鼎诚·馥桂园·铂峰,residential,13.25,34.278707,108.854704,,way,970380748,OpenStreetMap
+住宅区,元南村,village,13.26,34.213119,108.608465,,node,4457578430,OpenStreetMap
+住宅区,陕胶家园,residential,13.26,34.274274,108.853893,,way,970380778,OpenStreetMap
+住宅区,东晁悦府,residential,13.3,34.234575,108.836091,,way,1307273403,OpenStreetMap
+住宅区,小王店村,residential,13.3,34.201587,108.623471,,way,448915635,OpenStreetMap
+住宅区,三四〇二社区,residential,13.31,34.280015,108.855576,,way,970380749,OpenStreetMap
+住宅区,六村堡村,village,13.31,34.335905,108.848678,,node,14098952251,OpenStreetMap
+住宅区,华洲城天峰,residential,13.34,34.245784,108.843717,,way,973297631,OpenStreetMap
+住宅区,东石榴村,village,13.4,34.175721,108.712027,,node,14099046840,OpenStreetMap
+住宅区,押大村,village,13.4,34.414511,108.683998,,node,14081717074,OpenStreetMap
+住宅区,金泰怡景花园,residential,13.4,34.240851,108.841515,,way,973297628,OpenStreetMap
+住宅区,七彩阳光城,residential,13.42,34.28178,108.857001,,way,970526611,OpenStreetMap
+住宅区,司家庄村,village,13.43,34.40789,108.767705,,node,14081717065,OpenStreetMap
+住宅区,春晓华苑,residential,13.45,34.265496,108.853568,,way,970594675,OpenStreetMap
+住宅区,宇家庄村,village,13.46,34.359704,108.587167,,node,14076532522,OpenStreetMap
+住宅区,西一村,village,13.48,34.29802,108.565284,,node,14078743225,OpenStreetMap
+住宅区,爱菊佳园,residential,13.5,34.279608,108.857534,,way,970380764,OpenStreetMap
+住宅区,南飞鸿玖玺大观,residential,13.51,34.245432,108.845597,,way,997643558,OpenStreetMap
+住宅区,法士特家园,residential,13.53,34.273203,108.856608,,way,970380776,OpenStreetMap
+住宅区,绿地·新都会,residential,13.53,34.411673,108.665388,,way,854307847,OpenStreetMap
+住宅区,丰盛园,residential,13.55,34.277046,108.857687,,way,970380767,OpenStreetMap
+住宅区,华府西城港湾-1期,residential,13.57,34.271312,108.856636,,way,970380777,OpenStreetMap
+住宅区,顺泽·自在城,residential,13.57,34.28094,108.858586,,way,970380765,OpenStreetMap
+住宅区,西石榴村,village,13.59,34.174248,108.702328,,node,14099046839,OpenStreetMap
+住宅区,先锋村,village,13.61,34.206787,108.81318,,node,14104566688,OpenStreetMap
+住宅区,陈南村,village,13.63,34.272401,108.566485,,node,14078743210,OpenStreetMap
+住宅区,赵家村,village,13.71,34.419343,108.704834,,node,14081717075,OpenStreetMap
+住宅区,侯村,village,13.72,34.257044,108.570348,,node,14078743209,OpenStreetMap
+住宅区,陈皮村,village,13.73,34.276355,108.564468,,node,14078743211,OpenStreetMap
+住宅区,三民汉风苑-东区,residential,13.74,34.285878,108.861076,,way,970369870,OpenStreetMap
+住宅区,元西村,village,13.74,34.216371,108.597949,,node,4457578429,OpenStreetMap
+住宅区,东尚观湖,residential,13.76,34.265171,108.856975,,way,970594676,OpenStreetMap
+住宅区,黄家庄村,village,13.76,34.326549,108.857261,,node,14098952274,OpenStreetMap
+住宅区,黄家庄村,residential,13.76,34.326478,108.85725,,way,1222956789,OpenStreetMap
+住宅区,馥桂园·朗苑,residential,13.77,34.275482,108.859771,,way,970380768,OpenStreetMap
+住宅区,相家巷村,village,13.8,34.33897,108.853076,,node,14098952250,OpenStreetMap
+住宅区,空港新城,suburb,13.8,34.419622,108.727517,,node,11286420988,OpenStreetMap
+住宅区,绿地·湖滨会馆,residential,13.86,34.409684,108.649548,,way,1225022299,OpenStreetMap
+住宅区,南石榴村,village,13.87,34.171514,108.707371,,node,14099046841,OpenStreetMap
+住宅区,史村,village,13.88,34.353433,108.57764,,node,14076532523,OpenStreetMap
+住宅区,鸿锦城罗曼尼,residential,13.89,34.231105,108.840978,,way,997516803,OpenStreetMap
+住宅区,凿齿南村,village,13.9,34.180421,108.654942,,node,4458885963,OpenStreetMap
+住宅区,甲楼大院,residential,13.9,34.272444,108.860502,,way,970380774,OpenStreetMap
+住宅区,陈家庄,village,13.9,34.214332,108.826358,,way,996010979,OpenStreetMap
+住宅区,北吴村,village,13.92,34.311384,108.561571,,node,14078743228,OpenStreetMap
+住宅区,苏宁云著,residential,13.92,34.222705,108.834675,,way,996109763,OpenStreetMap
+住宅区,铭城国际社区,residential,13.92,34.248418,108.851989,大寨路,way,298287165,OpenStreetMap
+住宅区,精密西区,residential,13.93,34.277437,108.861961,,way,970380769,OpenStreetMap
+住宅区,西郊华府西城港湾2期,residential,13.95,34.273364,108.86132,,way,970380772,OpenStreetMap
+住宅区,三民家苑,residential,13.97,34.285782,108.863553,,way,970369873,OpenStreetMap
+住宅区,三民馨苑,residential,13.98,34.284994,108.863562,,way,970369872,OpenStreetMap
+住宅区,东方米兰国际城,residential,13.98,34.234681,108.844701,,way,973297624,OpenStreetMap
+住宅区,策村,village,13.99,34.345071,108.571589,,node,14076532528,OpenStreetMap
+住宅区,中航华府,residential,14.02,34.244862,108.851363,,way,973443833,OpenStreetMap
+住宅区,绿地·新都会二期,residential,14.03,34.41496,108.660518,,way,1225022318,OpenStreetMap
+住宅区,北徐寨村,village,14.04,34.321641,108.861724,,node,14098952278,OpenStreetMap
+住宅区,西安高新漳浒寨雷家寨小区,residential,14.04,34.220281,108.834006,,way,996109758,OpenStreetMap
+住宅区,德杰花满庭,residential,14.06,34.384431,108.821635,,way,1263246110,OpenStreetMap
+住宅区,柳鲁新村,village,14.06,34.170804,108.731768,,node,14099046837,OpenStreetMap
+住宅区,英发新苑,residential,14.09,34.229433,108.842356,,way,997516784,OpenStreetMap
+住宅区,秦家堡村,village,14.1,34.171785,108.741704,,node,14104566676,OpenStreetMap
+住宅区,西散区,hamlet,14.1,34.282543,108.559361,,node,14078743216,OpenStreetMap
+住宅区,枣园冶金社区-西区,residential,14.12,34.275931,108.863737,,way,970380781,OpenStreetMap
+住宅区,软件公寓,residential,14.15,34.218813,108.83424,雁塔区 天谷六路,way,653695870,OpenStreetMap
+住宅区,金域牟嘉,residential,14.15,34.249131,108.85507,,way,973443832,OpenStreetMap
+住宅区,雅卓花园,residential,14.16,34.27963,108.864845,,way,970380782,OpenStreetMap
+住宅区,来祁寨村,village,14.17,34.322106,108.560992,,node,14078743230,OpenStreetMap
+住宅区,白良寨村,village,14.17,34.387926,108.604847,,node,14076532533,OpenStreetMap
+住宅区,文义村,village,14.18,34.171336,108.680827,,node,14099046807,OpenStreetMap
+住宅区,王守村,village,14.18,34.185978,108.634501,,node,4458885970,OpenStreetMap
+住宅区,风尚馨筑,residential,14.19,34.284366,108.86583,,way,1156927809,OpenStreetMap
+住宅区,东焦村,village,14.21,34.204729,108.819939,,node,14104566689,OpenStreetMap
+住宅区,鲁坡头村,village,14.21,34.168442,108.716898,,node,14099046838,OpenStreetMap
+住宅区,南飞鸿天锦,residential,14.22,34.227713,108.842678,,way,997516790,OpenStreetMap
+住宅区,301大院,residential,14.23,34.272456,108.864154,,way,970380784,OpenStreetMap
+住宅区,大石头村,village,14.23,34.417697,108.76086,,node,14081717063,OpenStreetMap
+住宅区,汉城壹号,residential,14.24,34.272183,108.86421,,way,970380785,OpenStreetMap
+住宅区,汉都故里,residential,14.24,34.281472,108.865959,,way,1156927810,OpenStreetMap
+住宅区,鸿锦城·十年城,residential,14.24,34.225339,108.841027,,way,997516777,OpenStreetMap
+住宅区,南窑上,hamlet,14.26,34.423875,108.697645,,node,14081717076,OpenStreetMap
+住宅区,真东村,residential,14.26,34.19245,108.620765,,way,448915640,OpenStreetMap
+住宅区,鱼化寨街道,suburb,14.26,34.218494,108.835379,,node,11250452177,OpenStreetMap
+住宅区,真东村,village,14.27,34.192137,108.621112,,node,4458870864,OpenStreetMap
+住宅区,徐寨村,village,14.28,34.319549,108.864878,,node,14098952295,OpenStreetMap
+住宅区,南徐寨村,residential,14.29,34.319715,108.864922,,way,1222956749,OpenStreetMap
+住宅区,马坊村,village,14.29,34.256884,108.563889,,node,14078743208,OpenStreetMap
+住宅区,兴贺佳苑,residential,14.31,34.222563,108.839725,,way,997516769,OpenStreetMap
+住宅区,普贤寺村,village,14.33,34.177058,108.77138,,node,14104566681,OpenStreetMap
+住宅区,银领花园,residential,14.33,34.232756,108.847756,,way,973297625,OpenStreetMap
+住宅区,宏府麒麟山,residential,14.36,34.24838,108.85715,大寨路,way,298283517,OpenStreetMap
+住宅区,鸿锦城·天逸,residential,14.36,34.22808,108.844792,,way,997516821,OpenStreetMap
+住宅区,绿地国宝21城,residential,14.39,34.417089,108.768023,,way,737718965,OpenStreetMap
+住宅区,桂北村,village,14.44,34.327949,108.86447,,node,14098952279,OpenStreetMap
+住宅区,空港花园B区,residential,14.45,34.426182,108.71009,,way,854307836,OpenStreetMap
+住宅区,真西村,village,14.46,34.192616,108.616928,,node,4458870863,OpenStreetMap
+住宅区,空港花园C区,residential,14.46,34.426257,108.713831,,way,854307835,OpenStreetMap
+住宅区,真西村,residential,14.49,34.192281,108.616955,,way,448915639,OpenStreetMap
+住宅区,朱曹村,village,14.5,34.303142,108.554319,,node,14078743227,OpenStreetMap
+住宅区,袁旗寨村,village,14.51,34.195003,108.811656,,node,14104566690,OpenStreetMap
+住宅区,融创臻园,neighbourhood,14.52,34.255131,108.862034,,node,14014004561,OpenStreetMap
+住宅区,留南村,village,14.55,34.199708,108.605063,,node,4458870868,OpenStreetMap
+住宅区,复地优尚国际,residential,14.56,34.230437,108.849064,,way,973297626,OpenStreetMap
+住宅区,德杰国际城,residential,14.57,34.386737,108.826746,,way,1263246109,OpenStreetMap
+住宅区,六村堡街道,suburb,14.58,34.324795,108.866934,,node,11273984849,OpenStreetMap
+住宅区,渭北村,village,14.59,34.206211,108.596411,,node,4458870869,OpenStreetMap
+住宅区,袁家堡村,village,14.59,34.339112,108.862174,,node,14098952253,OpenStreetMap
+住宅区,宜都村,village,14.6,34.17391,108.654113,,node,14099046808,OpenStreetMap
+住宅区,渭柳佳苑,residential,14.61,34.393946,108.818314,,way,608116816,OpenStreetMap
+住宅区,真花硙村,village,14.61,34.169632,108.669433,,node,14099046806,OpenStreetMap
+住宅区,关庙村,village,14.62,34.34216,108.861166,,node,14098952254,OpenStreetMap
+住宅区,留南村,residential,14.62,34.198858,108.605134,,way,448915637,OpenStreetMap
+住宅区,底张村,village,14.63,34.419591,108.767469,,node,14081717064,OpenStreetMap
+住宅区,关庙村、东市村,residential,14.66,34.343427,108.861076,,way,1222956785,OpenStreetMap
+住宅区,义井寨村,village,14.7,34.170152,108.760137,,node,14104566677,OpenStreetMap
+住宅区,枣园街道,suburb,14.71,34.271063,108.869224,,node,3060737049,OpenStreetMap
+住宅区,赵白村,village,14.71,34.374334,108.582682,,node,14076532521,OpenStreetMap
+住宅区,恒大城,residential,14.73,34.248158,108.861332,大寨路,way,298165603,OpenStreetMap
+住宅区,良村,village,14.75,34.292666,108.551529,,node,14078743226,OpenStreetMap
+住宅区,董村,village,14.76,34.163595,108.70604,,node,14099046843,OpenStreetMap
+住宅区,供电局家属院,residential,14.77,34.271013,108.869863,,way,970540797,OpenStreetMap
+住宅区,荆寺一村,village,14.78,34.165642,108.74194,,node,14104566675,OpenStreetMap
+住宅区,西安市公交一公司5号家属院,residential,14.81,34.271408,108.870422,,way,970540798,OpenStreetMap
+住宅区,双永村,village,14.83,34.177,108.639567,,node,14099026468,OpenStreetMap
+住宅区,空港花园E区,residential,14.83,34.429558,108.709422,,way,854307833,OpenStreetMap
+住宅区,西安市公交一公司4号家属院,residential,14.83,34.273112,108.870988,,way,970540793,OpenStreetMap
+住宅区,空港花园A区,residential,14.86,34.429868,108.712721,,way,854307834,OpenStreetMap
+住宅区,白良村,village,14.87,34.387926,108.594075,,node,14076532532,OpenStreetMap
+住宅区,枣园冶金社区-东区,residential,14.88,34.274498,108.871784,,way,970540794,OpenStreetMap
+住宅区,李宅村,village,14.89,34.193494,108.815884,,node,14104566691,OpenStreetMap
+住宅区,渭曲坊,residential,14.89,34.204948,108.593469,,way,448915636,OpenStreetMap
+住宅区,双照村,village,14.9,34.405251,108.617671,,node,3071733598,OpenStreetMap
+住宅区,留位东坡,hamlet,14.93,34.334139,108.556117,,node,14076532530,OpenStreetMap
+住宅区,西安市公交一公司6号家属院,residential,14.93,34.271158,108.871645,,way,970540800,OpenStreetMap
+住宅区,西安市公交一公司3号家属院,residential,14.96,34.272478,108.87228,,way,970540796,OpenStreetMap
+住宅区,保兴村,village,15.0,34.21663,108.580268,,node,4458870908,OpenStreetMap
+住宅区,西安市公交一公司2号家属院,residential,15.0,34.270911,108.872414,,way,970540799,OpenStreetMap
+住宅区,周家堡村,village,15.01,34.331936,108.869577,,node,14098952273,OpenStreetMap
+住宅区,汉城东路社区,residential,15.01,34.265742,108.871198,,way,970594680,OpenStreetMap
+公司企业,沣西里商业街区,commercial,0.26,34.294633,108.709958,,way,1018709801,OpenStreetMap
+公司企业,沣西新城管委会,government,0.33,34.293644,108.710088,秦都区 尚业路,way,1018709805,OpenStreetMap
+公司企业,陕西广电网络西咸数据中心,industrial,1.23,34.288864,108.701954,,way,1018414331,OpenStreetMap
+公司企业,中华全国供销合作总社西安生漆涂料研究所,industrial,1.4,34.289915,108.698736,,way,1018414333,OpenStreetMap
+公司企业,咸阳沣河集中供热有限公司,industrial,1.48,34.309316,108.71468,秦都区 同文路,way,1019719847,OpenStreetMap
+公司企业,众泰电力设备公司,industrial,1.5,34.297071,108.695707,,way,1018671245,OpenStreetMap
+公司企业,陕西万泉咸阳环保电力有限公司(已停运),industrial,1.85,34.293247,108.692197,,way,755765805,OpenStreetMap
+公司企业,咸阳市公共交通集团公司,commercial,2.28,34.312196,108.696465,,way,1232819145,OpenStreetMap
+公司企业,咸阳公交南站,industrial,2.37,34.312836,108.695908,,way,1232819136,OpenStreetMap
+公司企业,德福商务中心（建设中）,commercial,2.57,34.274178,108.703546,,way,1317499366,OpenStreetMap
+公司企业,泰丰盛合（建设中）,commercial,2.79,34.272062,108.70353,,way,1317499367,OpenStreetMap
+公司企业,陕西源杰半导体科技股份有限公司,industrial,3.23,34.286053,108.679068,,way,1317529986,OpenStreetMap
+公司企业,陕西津达线缆制造有限公司,industrial,3.24,34.287293,108.678373,,way,1317529985,OpenStreetMap
+公司企业,谱尼西北总部大厦,commercial,3.47,34.286579,108.676122,,way,1317529987,OpenStreetMap
+公司企业,翱翔小镇展示中心,commercial,3.88,34.273554,108.67994,,way,1317498215,OpenStreetMap
+公司企业,陕西航沣新材料有限公司,industrial,4.13,34.273592,108.676294,,way,1317498218,OpenStreetMap
+公司企业,沣河森林公园公交调度站,industrial,4.15,34.321992,108.74469,,way,1227559752,OpenStreetMap
+公司企业,万博商业综合体,commercial,4.28,34.271431,108.676285,,way,1317486800,OpenStreetMap
+公司企业,咸阳公交中心站,industrial,4.3,34.332975,108.697666,,way,1232819148,OpenStreetMap
+公司企业,陕西延长石油集团橡胶有限公司,industrial,4.33,34.303177,108.758345,,way,292585510,OpenStreetMap
+公司企业,秦创源翱翔小镇,commercial,4.37,34.269376,108.677253,,way,1152622911,OpenStreetMap
+公司企业,爱生无人机产业化基地,industrial,4.56,34.272642,108.67136,,way,1017789734,OpenStreetMap
+公司企业,宇培西安物流园,industrial,4.82,34.26788,108.672346,,way,1017764705,OpenStreetMap
+公司企业,科创智慧产业园,commercial,4.92,34.274577,108.758694,,way,1230880858,OpenStreetMap
+公司企业,伟星新材西安工业园,industrial,4.93,34.262402,108.677221,,way,1317049967,OpenStreetMap
+公司企业,三一重工陕西6S中心,industrial,4.97,34.320556,108.757351,,way,969224585,OpenStreetMap
+公司企业,华研检测集团有限责任公司,commercial,5.28,34.265118,108.755388,长安区,way,1001992348,OpenStreetMap
+公司企业,林鑫物流(沣东物流中心),industrial,5.29,34.302028,108.769128,,way,595680340,OpenStreetMap
+公司企业,中兴深蓝科技产业园,commercial,5.31,34.263388,108.753997,长安区 沣东大道,way,1001992346,OpenStreetMap
+公司企业,航天科工西北科技创新产业园,commercial,5.53,34.265051,108.758926,长安区 科源三路,way,1001992349,OpenStreetMap
+公司企业,文创小镇,commercial,5.61,34.246521,108.722575,长安区,way,999987908,OpenStreetMap
+公司企业,西部生命科学园,commercial,5.61,34.258114,108.752073,,way,1001982813,OpenStreetMap
+公司企业,天海星沣东数码工坊,commercial,5.62,34.262507,108.757618,长安区 沣东大道,way,1001982790,OpenStreetMap
+公司企业,咸阳火车站公交场站,industrial,5.71,34.345031,108.73132,,way,1232819150,OpenStreetMap
+公司企业,西安北方试验测试研究中心,commercial,5.77,34.265071,108.762258,长安区 科源三路 69,way,1001970673,OpenStreetMap
+公司企业,咸阳公交西站,industrial,5.81,34.329286,108.663066,,way,1232819146,OpenStreetMap
+公司企业,咸阳沣河集中供热有限公司Ⅲ区热源厂,industrial,5.87,34.308804,108.774087,,way,755618391,OpenStreetMap
+公司企业,康鸿产业园,commercial,5.9,34.262674,108.761824,长安区 科源东路,way,1001970679,OpenStreetMap
+公司企业,西部慧谷,commercial,6.08,34.258114,108.759412,长安区,way,1001982792,OpenStreetMap
+公司企业,中国电子彩虹光电科技有限公司,industrial,6.13,34.283795,108.647026,,way,755618373,OpenStreetMap
+公司企业,国际科创商务广场,commercial,6.18,34.260045,108.763084,,way,1001970680,OpenStreetMap
+公司企业,协同创新港,commercial,6.33,34.258133,108.763175,长安区 复兴大道,way,1001970686,OpenStreetMap
+公司企业,中国电信,telecommunication,6.42,34.315799,108.777743,秦都区 凤栖路,node,8979002282,OpenStreetMap
+公司企业,沣东新城政务中心,commercial,6.46,34.262999,108.76976,长安区,way,608116716,OpenStreetMap
+公司企业,安博西安沣西物流中心,industrial,6.47,34.245606,108.677334,,relation,13689117,OpenStreetMap
+公司企业,中国国际丝路中心,commercial,6.71,34.257886,108.768447,,way,1001795221,OpenStreetMap
+公司企业,中国中铁七局集团第三工程有限公司,company,6.89,34.358103,108.715397,,node,13270265914,OpenStreetMap
+公司企业,高端装备研究所,research,7.01,34.256032,108.653257,,node,8108045379,OpenStreetMap
+公司企业,咸阳市长途线务局,yes,7.12,34.356799,108.686903,,node,8600824248,OpenStreetMap
+公司企业,创新港公交调度站,industrial,7.48,34.252301,108.65033,,way,1035751971,OpenStreetMap
+公司企业,陕西省天然气股份有限公司咸阳分公司,industrial,7.48,34.363264,108.717922,,way,1445761388,OpenStreetMap
+公司企业,咸阳公交北站,industrial,7.58,34.364294,108.715312,,way,1232819149,OpenStreetMap
+公司企业,五得利集团咸阳面粉有限公司,industrial,7.7,34.328735,108.637955,,way,755625969,OpenStreetMap
+公司企业,西安沣东自贸产业园,industrial,7.71,34.28906,108.795435,未央区 征和四路 2168,way,1019747199,OpenStreetMap
+公司企业,特高压实验室,industrial,8.15,34.253478,108.639881,,way,1230119793,OpenStreetMap
+公司企业,中国西部核能技术研究院,research,8.37,34.25475,108.635958,,way,1048983182,OpenStreetMap
+公司企业,长庆石化,industrial,8.6,34.36257,108.760071,,way,292039956,OpenStreetMap
+公司企业,启航时代广场,commercial,8.95,34.302398,108.809174,,way,969242833,OpenStreetMap
+公司企业,中国西部国际车城,commercial,9.22,34.293067,108.812285,未央区 58,way,292664585,OpenStreetMap
+公司企业,天章大道公交调度站,industrial,9.64,34.304309,108.816447,,way,1227505857,OpenStreetMap
+公司企业,陕西省高速公路建设集团公司西宝分公司,commercial,9.8,34.25168,108.803988,长安区 连霍高速,way,997678840,OpenStreetMap
+公司企业,沣东文化广场,commercial,9.87,34.259405,108.809804,,way,997806686,OpenStreetMap
+公司企业,万象域,commercial,9.96,34.294226,108.820342,,way,1019950031,OpenStreetMap
+公司企业,鱼化汽车产业园,industrial,10.39,34.241277,108.803455,,way,997664904,OpenStreetMap
+公司企业,西安车辆厂,industrial,10.6,34.301985,108.827141,,way,292598201,OpenStreetMap
+公司企业,金龙鱼,industrial,10.71,34.307352,108.596174,,way,755625966,OpenStreetMap
+公司企业,西咸智轨1号线联合车库,industrial,10.84,34.202724,108.745342,,way,1090923910,OpenStreetMap
+公司企业,四腾科技产业园,commercial,10.88,34.243772,108.811992,雁塔区 鱼跃路 57,way,841110067,OpenStreetMap
+公司企业,慧康生物科技有限责任公司,industrial,11.02,34.244031,108.813941,,way,841110065,OpenStreetMap
+公司企业,陕西东风海印刷厂,industrial,11.1,34.244438,108.815241,雁塔区 富源四路,way,997653266,OpenStreetMap
+公司企业,鱼化光电电子科技产业园,commercial,11.32,34.243802,108.81764,雁塔区 鱼跃路,way,841110089,OpenStreetMap
+公司企业,秦汉汽车零部件产业园,industrial,11.59,34.396549,108.677762,,way,1236768522,OpenStreetMap
+公司企业,阿房二路公交调度站,industrial,11.69,34.274281,108.836434,,way,1227559754,OpenStreetMap
+公司企业,南何村公交车场,industrial,12.05,34.271689,108.839782,,way,1446908032,OpenStreetMap
+公司企业,中国移动,telecommunication,12.09,34.27675,108.841439,未央区,node,8980229190,OpenStreetMap
+公司企业,中国电信,telecommunication,12.19,34.275029,108.84218,未央区,node,8980229189,OpenStreetMap
+公司企业,中国移动,telecommunication,12.28,34.270732,108.842071,未央区 阿房一路,node,8980229093,OpenStreetMap
+公司企业,中国移动,telecommunication,12.37,34.284251,108.845832,未央区 阿房四路,node,8980017745,OpenStreetMap
+公司企业,二府庄工业园,industrial,12.6,34.241066,108.831822,,way,997225779,OpenStreetMap
+公司企业,际华园冰雪运动中心,commercial,12.68,34.393457,108.784131,,way,1263155807,OpenStreetMap
+公司企业,西安宝能新能源汽车产业园,industrial,12.79,34.411204,108.709244,,way,854307745,OpenStreetMap
+公司企业,西部欣桥农产品物流中心,industrial,12.79,34.250188,108.839598,,way,1329421644,OpenStreetMap
+公司企业,中国电信,telecommunication,12.88,34.271349,108.848912,未央区 阿房路,node,8981773608,OpenStreetMap
+公司企业,中国移动,telecommunication,12.88,34.271484,108.848911,未央区 阿房路,node,8981773609,OpenStreetMap
+公司企业,西安热电有限责任公司,industrial,12.92,34.258481,108.844979,,way,372815755,OpenStreetMap
+公司企业,Xian-Xianyang 594,industrial,12.94,34.375988,108.609425,,way,364429029,OpenStreetMap
+公司企业,康师傅控股西安顶益食品有限公司制面工厂,industrial,12.95,34.358431,108.831211,,way,755618365,OpenStreetMap
+公司企业,中国移动,telecommunication,13.08,34.274686,108.851928,莲湖区 丰盛路,node,8981784889,OpenStreetMap
+公司企业,法士特齿轮有限公司,industrial,13.15,34.276763,108.853234,,way,970380760,OpenStreetMap
+公司企业,中国电信,telecommunication,13.19,34.269979,108.852017,莲湖区 大庆路 862,node,8982468982,OpenStreetMap
+公司企业,定舟纸箱产业园,industrial,13.25,34.206602,108.616928,,way,448900771,OpenStreetMap
+公司企业,中国联通,telecommunication,13.26,34.246461,108.843101,雁塔区 大寨路,node,9008320525,OpenStreetMap
+公司企业,中国电信,telecommunication,13.29,34.266984,108.85228,莲湖区,node,8982469003,OpenStreetMap
+公司企业,中国电信,telecommunication,13.37,34.27331,108.854812,莲湖区 枣园南路 22,node,8981784890,OpenStreetMap
+公司企业,西安市城市快速干道管理中心,commercial,13.5,34.291719,108.858877,,way,1456617142,OpenStreetMap
+公司企业,中国电信,telecommunication,13.56,34.279568,108.858242,莲湖区 枣园西路,node,8980116980,OpenStreetMap
+公司企业,团结西路公交调度站,industrial,13.74,34.266706,108.857238,,way,1227505860,OpenStreetMap
+公司企业,中国移动,telecommunication,13.78,34.266288,108.857589,莲湖区 团结西路,node,8982754111,OpenStreetMap
+公司企业,空港新城商务中心,commercial,13.79,34.419673,108.726406,,way,854307779,OpenStreetMap
+公司企业,长征混凝土,industrial,13.88,34.349498,108.848686,,way,1222465333,OpenStreetMap
+公司企业,天谷四路公交调度站,industrial,13.9,34.225273,108.836506,,way,1227505865,OpenStreetMap
+公司企业,枣园公交车场,industrial,13.92,34.280069,108.862303,,way,1446908031,OpenStreetMap
+公司企业,起重机厂,industrial,13.92,34.25893,108.856676,,way,1329421639,OpenStreetMap
+公司企业,骊山汽车厂,industrial,13.93,34.282543,108.862716,,way,1238885654,OpenStreetMap
+公司企业,三民馨苑公交调度站,industrial,13.96,34.283649,108.86323,,way,1456626854,OpenStreetMap
+公司企业,深圳航空西安分公司,commercial,13.99,34.421084,108.730492,,way,1270345821,OpenStreetMap
+公司企业,中国南方航空西安分公司,commercial,14.09,34.422278,108.72706,,way,1270345817,OpenStreetMap
+公司企业,西安市市政道桥建设有限公司,industrial,14.13,34.350173,108.851257,,way,1222465334,OpenStreetMap
+公司企业,Dyness,company,14.21,34.212153,108.828432,,node,11013652509,OpenStreetMap
+公司企业,西安秦华天然气,industrial,14.22,34.352714,108.850923,,way,1222465328,OpenStreetMap
+公司企业,四川航空陕西分公司,commercial,14.25,34.423533,108.729172,,way,1270345816,OpenStreetMap
+公司企业,皂河东路公交调度站,industrial,14.27,34.366556,108.841908,,way,1222465364,OpenStreetMap
+公司企业,西安国家数字出版基地,commercial,14.31,34.211308,108.829089,雁塔区 天谷七路 996,way,727384450,OpenStreetMap
+公司企业,国亨食品交易中心,industrial,14.33,34.290498,108.867856,,way,1456617143,OpenStreetMap
+公司企业,汉都故里公交车场,industrial,14.4,34.282716,108.86793,,way,1446908030,OpenStreetMap
+公司企业,庆安厂,industrial,14.41,34.268517,108.865208,,relation,18230500,OpenStreetMap
+公司企业,六村堡物流中心,industrial,14.44,34.353687,108.852951,,way,1222465335,OpenStreetMap
+公司企业,云水国际,commercial,14.52,34.214095,108.834846,,way,1301139174,OpenStreetMap
+公司企业,西安空港企业总部基地A区,commercial,14.55,34.426775,108.722782,,way,1270345815,OpenStreetMap
+公司企业,中外合资西安新意达建筑制品有限公司,industrial,14.62,34.359859,108.851329,,way,976997014,OpenStreetMap
+公司企业,幸福航空总部基地中心,commercial,14.62,34.427094,108.726484,,way,1270345813,OpenStreetMap
+公司企业,中国电信,telecommunication,14.63,34.270911,108.868225,莲湖区 大庆路 23,node,8981957472,OpenStreetMap
+公司企业,西安软件新城软件研发基地,commercial,14.63,34.207593,108.829733,雁塔区 天谷八路 156,way,727384451,OpenStreetMap
+公司企业,中软国际,company,14.7,34.209706,108.832973,,node,11166339905,OpenStreetMap
+公司企业,国亨东区小食品城,industrial,14.7,34.29014,108.871802,,way,1456617144,OpenStreetMap
+公司企业,中国电子西安产业园,commercial,14.73,34.368393,108.84647,未央区 尚稷路,way,755618402,OpenStreetMap
+公司企业,西安联运物流,industrial,14.75,34.3525,108.857489,,way,1222465338,OpenStreetMap
+公司企业,西安环普国际科技园,commercial,14.8,34.211309,108.836085,雁塔区 天谷八路 211,way,727377596,OpenStreetMap
+公司企业,冶金厂,industrial,14.84,34.279237,108.872235,,way,363722862,OpenStreetMap
+公司企业,正广通物流园,industrial,14.84,34.35423,108.857526,,way,1222465336,OpenStreetMap
+公司企业,西安印钞厂,industrial,14.85,34.265246,108.869179,,way,246088047,OpenStreetMap
+公司企业,西安公交一公司,industrial,14.87,34.271925,108.871198,,way,1227509654,OpenStreetMap
+公司企业,西安三志物流,industrial,14.95,34.35302,108.859599,,way,1222465339,OpenStreetMap
+公司企业,智巢未来港,commercial,15.0,34.369333,108.849316,未央区 草滩十路 999,way,976997012,OpenStreetMap
+公司企业,西安公交四公司,industrial,15.04,34.271453,108.872925,,way,1227509653,OpenStreetMap
+医院,陕西中医药大学第二附属医院(西咸院区),hospital,1.9,34.310137,108.723965,秦都区 龙台观路 831,way,1019369951,OpenStreetMap
+医院,陕西省核工业二一五医院,hospital,4.2,34.330235,108.692098,,way,1126159203,OpenStreetMap
+医院,中国·咸阳肿瘤医院,hospital,4.53,34.322307,108.749832,秦都区 世纪大道,way,969224584,OpenStreetMap
+医院,西安交通大学附属创新港医院,hospital,5.87,34.264137,108.661287,,way,1017533273,OpenStreetMap
+医院,咸阳市第一人民医院,hospital,6.04,34.350101,108.703783,,way,1241530470,OpenStreetMap
+医院,西安交通大学校医院创新港门诊部,yes,6.64,34.260499,108.65403,,node,11407735081,OpenStreetMap
+医院,武警医院,hospital,10.83,34.28442,108.829023,,node,3463314725,OpenStreetMap
+医院,西安冶金医院,hospital,13.98,34.275619,108.862081,莲湖区 枣园西路 40,way,970380779,OpenStreetMap
+学校,沣西新城第一学校,school,0.3,34.29858,108.710428,秦都区 同德路,way,1018709749,OpenStreetMap
+学校,沣西新城实验幼儿园,kindergarten,0.38,34.299263,108.710278,秦都区 同德路,way,1018709748,OpenStreetMap
+学校,陕西国际商贸学院,college,0.47,34.299892,108.714451,秦都区 统一西路 35,way,411214810,OpenStreetMap
+学校,沣西中学,school,0.86,34.302616,108.717161,秦都区,way,1019369999,OpenStreetMap
+学校,陕西服装工程学院,college,0.94,34.304557,108.713267,秦都区 同文路 1,way,411214809,OpenStreetMap
+学校,陕西科技大学镐京学院,university,1.2,34.304756,108.719912,秦都区 统一西路,way,1019369972,OpenStreetMap
+学校,沣西第三小学,school,1.34,34.294445,108.726407,秦都区 八里庄路,way,1018741426,OpenStreetMap
+学校,沣西新城第三幼儿园,kindergarten,1.42,34.294784,108.727326,秦都区 八里庄路,way,1018741430,OpenStreetMap
+学校,咸阳职业技术学院,college,1.96,34.297707,108.733208,秦都区 统一西路 1,way,411214811,OpenStreetMap
+学校,沣西实验学校,school,2.24,34.311599,108.727655,秦都区 白马河路,way,1019311429,OpenStreetMap
+学校,钓台中学,school,2.33,34.285439,108.690209,秦都区 咸户路,way,1018318622,OpenStreetMap
+学校,西北工业大学沣西校区(建设中),school,2.36,34.274958,108.71136,,way,1537934669,OpenStreetMap
+学校,沣西新城第四学校,school,2.4,34.30648,108.73494,秦都区 季家路,way,1018754181,OpenStreetMap
+学校,沣润和园幼儿园,kindergarten,2.49,34.309741,108.733652,秦都区 龙台观路,way,1019311399,OpenStreetMap
+学校,沣西新城第一小学尚雅校区,school,2.59,34.278781,108.693322,,way,1317051455,OpenStreetMap
+学校,陕西中医药大学,university,3.28,34.317065,108.737313,,way,411214812,OpenStreetMap
+学校,沣西新城第二学校,school,3.31,34.278796,108.682739,,way,962020764,OpenStreetMap
+学校,清渭公馆幼儿园,kindergarten,3.37,34.324632,108.724769,,node,14079981917,OpenStreetMap
+学校,创新港西安交通大学附属小学东马坊分校,school,3.61,34.264629,108.702624,,way,1317051456,OpenStreetMap
+学校,启迪中学,school,3.64,34.324774,108.73141,,way,1547506415,OpenStreetMap
+学校,咸阳市秦都区沣东中心幼儿园,kindergarten,3.75,34.299442,108.752663,秦都区 统一东路,way,1002318447,OpenStreetMap
+学校,西咸新区沣西新沣幼儿园,school,3.8,34.262887,108.702676,,way,1317051457,OpenStreetMap
+学校,秦都英才学校,school,3.87,34.327482,108.730555,,way,1547506416,OpenStreetMap
+学校,格森贝幼儿园,kindergarten,4.05,34.299153,108.75589,秦都区,way,1018450229,OpenStreetMap
+学校,咸阳市秦都区沣东办沣水园小学,school,4.18,34.297061,108.757532,秦都区,way,970265901,OpenStreetMap
+学校,王寺五一小学,school,5.0,34.279033,108.762324,长安区,way,1001941845,OpenStreetMap
+学校,西咸国际文化教育园第一小学,school,5.02,34.251215,108.716466,长安区,way,999987913,OpenStreetMap
+学校,沣东新城国润幼儿园,kindergarten,5.08,34.314041,108.762881,秦都区 创新二路,way,970259883,OpenStreetMap
+学校,文教园第一幼儿园,kindergarten,5.11,34.250676,108.719685,长安区,way,999987917,OpenStreetMap
+学校,创新港西安交通大学附属幼儿园,school,5.76,34.258235,108.669272,,way,1022283653,OpenStreetMap
+学校,创新港西安交通大学附属小学,school,5.89,34.258526,108.667013,,way,1022283650,OpenStreetMap
+学校,创新港西安交通大学附属中学,school,5.92,34.255627,108.670323,秦都区,way,962000806,OpenStreetMap
+学校,陕西工业职业技术大学,university,5.95,34.34969,108.710211,渭城区 文汇西路 12,way,1444282081,OpenStreetMap
+学校,西藏民族大学附属中学,school,6.03,34.34811,108.73089,,way,982445777,OpenStreetMap
+学校,西安市长安区王寺镇黄堆小学,school,6.15,34.288959,108.778378,长安区,way,970316389,OpenStreetMap
+学校,咸阳铁小/咸阳铁中,school,6.28,34.352398,108.71884,渭城区 毕塬西路 3 号,way,1446705532,OpenStreetMap
+学校,西电技师学院,school,6.28,34.309455,108.778468,,way,292585509,OpenStreetMap
+学校,沣东新城第一初级中学,school,6.29,34.269303,108.772231,长安区 科源一路,way,1001941807,OpenStreetMap
+学校,西藏民族大学渭城校区,university,6.32,34.351464,108.728199,,way,982445771,OpenStreetMap
+学校,陕师大奥林匹克花园学校,school,6.34,34.317357,108.776102,秦都区 上林路（南段）,way,153518104,OpenStreetMap
+学校,西安沣东第一学校,school,6.35,34.272071,108.774597,长安区 科源东路 68,way,970316395,OpenStreetMap
+学校,咸阳铁小第二学校,school,6.4,34.353735,108.713821,渭城区 毕塬西路,node,13266952720,OpenStreetMap
+学校,创新港第一幼儿园,kindergarten,6.42,34.257782,108.659787,秦都区 东银杏路,way,1017709045,OpenStreetMap
+学校,奥林匹克花园幼儿园,kindergarten,6.69,34.314901,108.781254,,node,1661874923,OpenStreetMap
+学校,沣东第一幼儿园,kindergarten,6.75,34.268506,108.777422,长安区 科源路,way,1001941794,OpenStreetMap
+学校,咸阳中学,school,6.88,34.354013,108.738795,东风路 34,node,3266250400,OpenStreetMap
+学校,西安交通大学(创新港校区),university,6.98,34.257549,108.652148,长安区,way,492791467,OpenStreetMap
+学校,西工大附小（阳光城分校）,school,7.15,34.327879,108.779775,,way,1271910391,OpenStreetMap
+学校,和盛花园幼儿园,kindergarten,7.34,34.283471,108.790354,长安区 太平路,way,1019747231,OpenStreetMap
+学校,咸阳师范学院,university,7.5,34.362914,108.724044,渭城区 文林路 1 号,way,982445778,OpenStreetMap
+学校,高新一中西咸新区第一初级中学,school,7.69,34.327114,108.786909,,way,1271910389,OpenStreetMap
+学校,西咸新区沣东新城第七幼儿园,kindergarten,7.81,34.326827,108.78858,,way,1271910390,OpenStreetMap
+学校,高新一中西咸新区第一小学,school,7.81,34.327994,108.787813,,way,1271910370,OpenStreetMap
+学校,沣东第五小学,school,7.9,34.283892,108.796682,未央区 征和三路,way,969239166,OpenStreetMap
+学校,落水小学,school,7.93,34.242889,108.769272,长安区 连共线,way,997740464,OpenStreetMap
+学校,西咸新区铁一中金湾中学,school,8.08,34.342418,108.77989,,way,1271910365,OpenStreetMap
+学校,西安交通工程学校,college,8.65,34.263154,108.797248,长安区,way,1001156464,OpenStreetMap
+学校,西藏民族大学秦汉校区,university,9.01,34.373906,108.739758,,way,982445779,OpenStreetMap
+学校,王寺小学,school,9.15,34.261674,108.802397,长安区 69,way,1019918498,OpenStreetMap
+学校,西安轨道交通技师学院,college,9.38,34.236819,108.784549,长安区,way,997705281,OpenStreetMap
+学校,沣东第二幼儿园,kindergarten,9.49,34.30234,108.815039,未央区,way,969242839,OpenStreetMap
+学校,沣东第四小学,school,9.73,34.290457,108.817645,未央区 天台路 107,way,1020491335,OpenStreetMap
+学校,西安沣东中加学校,school,9.8,34.234264,108.787812,长安区 汉池路 8,way,997705270,OpenStreetMap
+学校,沣东第六小学,school,9.84,34.233649,108.787809,长安区,way,997705274,OpenStreetMap
+学校,车张村小学,school,9.91,34.288389,108.819509,未央区,way,1020491340,OpenStreetMap
+学校,博恩思幼儿园,kindergarten,9.95,34.290934,108.820144,未央区,way,1020491329,OpenStreetMap
+学校,沣东实验小学,school,9.96,34.256115,108.808997,未央区 44,way,1019884056,OpenStreetMap
+学校,沣东第六初级中学,school,9.96,34.238646,108.795068,长安区 镐京大道,way,997664916,OpenStreetMap
+学校,沣东第六幼儿园,kindergarten,10.17,34.232146,108.790944,长安区,way,997664964,OpenStreetMap
+学校,豆丁堡幼儿园(西围新嘉园东区西南),kindergarten,10.21,34.255373,108.8115,未央区,way,1019884066,OpenStreetMap
+学校,中幼阳光力奥幼儿园,kindergarten,10.23,34.268194,108.818006,未央区 天台三路 6,way,1019918507,OpenStreetMap
+学校,渊博幼儿园,kindergarten,10.25,34.273364,108.820054,未央区 天台四路,way,1019918513,OpenStreetMap
+学校,陕西沣东伊诺幼儿园,kindergarten,10.29,34.268192,108.81874,未央区 天台三路,way,1019918509,OpenStreetMap
+学校,武警工程大学,university,10.4,34.283189,108.824056,,way,292598209,OpenStreetMap
+学校,西安高新一中沣东中学,school,10.6,34.259629,108.81853,未央区 沣东大道 1066,way,997806648,OpenStreetMap
+学校,沣东第三小学,school,10.82,34.335206,108.81995,,way,608396483,OpenStreetMap
+学校,沣东新城和平小学,school,11.07,34.258897,108.823726,未央区 和平工业园二号路,way,997806640,OpenStreetMap
+学校,沣东二中,school,11.19,34.28509,108.83305,未央区 阿房四路,way,970362687,OpenStreetMap
+学校,西咸新区秦汉新城秦兴小学,school,11.24,34.39598,108.692467,,way,1236768521,OpenStreetMap
+学校,西安市车辆中学,school,11.65,34.300164,108.838752,,way,1123507283,OpenStreetMap
+学校,西安立讯科技技师学院,college,11.73,34.24334,108.82249,雁塔区 鱼跃路 1,way,997653245,OpenStreetMap
+学校,西咸新区沣东新城北何村小学,school,11.78,34.279013,108.83849,未央区 80,way,970393258,OpenStreetMap
+学校,大王初级中学,school,11.84,34.206952,108.641801,,way,458853455,OpenStreetMap
+学校,阿房路二校,school,11.86,34.283834,108.840188,未央区 阿房四路 140,way,970369856,OpenStreetMap
+学校,西安车辆厂小学,school,11.87,34.301152,108.841066,,way,1123507284,OpenStreetMap
+学校,西安沣东阿房路学校,school,11.92,34.278898,108.84002,未央区 阿房三路,way,970393259,OpenStreetMap
+学校,沣东新城西纺幼儿园,kindergarten,12.02,34.277534,108.840868,未央区 阿房二路,way,970393260,OpenStreetMap
+学校,格林阿房幼儿园,kindergarten,12.19,34.283875,108.843889,未央区,way,970369860,OpenStreetMap
+学校,大王镇中心学校,school,12.2,34.205965,108.636486,,way,458853454,OpenStreetMap
+学校,咸阳市高新梦桃学校小学部,school,12.21,34.297959,108.579129,,way,1547747731,OpenStreetMap
+学校,沣东新城阿房路三校,school,12.21,34.27738,108.842972,未央区,way,970393263,OpenStreetMap
+学校,弘正教育睿阳幼儿园,kindergarten,12.36,34.245611,108.831822,雁塔区 大寨路,way,997643619,OpenStreetMap
+学校,西安高新区第十九小学,school,12.4,34.232452,108.822684,雁塔区 天谷三路,way,996661626,OpenStreetMap
+学校,秦汉新城摆旗幼儿园,school,12.54,34.390092,108.787569,,way,1347687200,OpenStreetMap
+学校,宿舍,school,12.55,34.213037,108.619713,,way,451582164,OpenStreetMap
+学校,教学楼,school,12.57,34.212854,108.619608,,way,451582163,OpenStreetMap
+学校,户县善慧小学,school,12.6,34.212766,108.61916,,way,448817087,OpenStreetMap
+学校,吉的堡金色悦城幼儿园(万科金色悦城店),kindergarten,12.78,34.287441,108.85074,未央区 枣园西路,way,970369864,OpenStreetMap
+学校,吉的堡花都幼儿园,kindergarten,12.83,34.243567,108.836282,雁塔区 西三环,way,997643604,OpenStreetMap
+学校,高新区第四初级中学,school,12.84,34.231777,108.828016,雁塔区,way,996661612,OpenStreetMap
+学校,品格石桥欣苑幼儿园,kindergarten,13.05,34.243379,108.838842,雁塔区 西三环,way,997643541,OpenStreetMap
+学校,爱格林万国远鉴幼儿园,kindergarten,13.05,34.283751,108.853293,枣园西路 219,way,970369876,OpenStreetMap
+学校,户县元村小学,school,13.06,34.21809,108.605913,,way,448778230,OpenStreetMap
+学校,亿润幼儿园,kindergarten,13.15,34.267354,108.850786,莲湖区 大庆路 81,way,970571277,OpenStreetMap
+学校,西安高新区第十八小学,school,13.17,34.234572,108.834402,雁塔区 天谷一路,way,996661645,OpenStreetMap
+学校,沣东新城阿房路一校,school,13.18,34.273288,108.852799,莲湖区 阿房二路,way,970526622,OpenStreetMap
+学校,三印幼儿园,kindergarten,13.2,34.272275,108.852772,莲湖区 大庆路,way,970526619,OpenStreetMap
+学校,西安市雁塔区第十九幼儿园,kindergarten,13.36,34.241212,108.84131,雁塔区 石桥二路,way,997516859,OpenStreetMap
+学校,西咸新区沣东新城西城中学,school,13.37,34.271319,108.854378,莲湖区 大庆路 985,way,970526621,OpenStreetMap
+学校,西安市莲湖区远东实验小学,school,13.48,34.287781,108.858379,莲湖区 立信路 999,way,970369874,OpenStreetMap
+学校,西安金色童年二幼,kindergarten,13.55,34.279109,108.858003,莲湖区 枣园西路,way,970380766,OpenStreetMap
+学校,西安职业技术学院,college,13.56,34.228676,108.834853,雁塔区 鱼斗路 251,way,452594098,OpenStreetMap
+学校,六村堡小学,school,13.58,34.33623,108.851658,,way,608396449,OpenStreetMap
+学校,西安高新区第二十小学,school,13.58,34.222374,108.829676,雁塔区 天谷五路,way,996109780,OpenStreetMap
+学校,西安远东二中(丰隆路),school,13.67,34.274051,108.858387,莲湖区 丰盛路,way,970380771,OpenStreetMap
+学校,西安市莲湖第二学校,school,13.72,34.287702,108.861003,,way,1329514603,OpenStreetMap
+学校,西安莲湖东尚观湖幼儿园,kindergarten,13.72,34.264343,108.856288,莲湖区 团结西路 28,way,970594677,OpenStreetMap
+学校,高新区第十五幼儿园,kindergarten,13.81,34.221931,108.832495,雁塔区 天谷五路,way,996109756,OpenStreetMap
+学校,西安市莲湖区远东第二小学,school,13.83,34.27681,108.860707,莲湖区 枣园西路 40,way,970380770,OpenStreetMap
+学校,格琳堡幼儿园,kindergarten,13.84,34.273082,108.859994,莲湖区,way,970380773,OpenStreetMap
+学校,远东第二小学分校,school,13.98,34.274563,108.861895,莲湖区 金曹路,way,970380783,OpenStreetMap
+学校,中航华府幼儿园,kindergarten,13.99,34.245076,108.851107,雁塔区 阿房路,way,997643591,OpenStreetMap
+学校,冶金幼儿园,kindergarten,14.01,34.276129,108.862542,莲湖区 枣园西路 38,way,970380780,OpenStreetMap
+学校,真美幼儿园,kindergarten,14.01,34.285147,108.86392,莲湖区 崇勇路,way,970369871,OpenStreetMap
+学校,品格铭城幼儿园,kindergarten,14.07,34.248134,108.853677,雁塔区 大寨路,way,298285380,OpenStreetMap
+学校,西安高新区第十小学,school,14.07,34.228973,108.841755,雁塔区,way,997516798,OpenStreetMap
+学校,西安高新区第二十五幼儿园,kindergarten,14.13,34.219466,108.834542,雁塔区 云水一路,way,996109747,OpenStreetMap
+学校,陕西信息工业技师学院,college,14.14,34.241256,108.850733,雁塔区 富裕路 139,way,973297632,OpenStreetMap
+学校,吉的堡鸿锦城幼儿园,kindergarten,14.15,34.227644,108.841745,雁塔区 化龙三路,way,997516785,OpenStreetMap
+学校,陕西师范大学铭城小学,school,14.23,34.247654,108.855277,雁塔区 大寨路,way,973443831,OpenStreetMap
+学校,西安市雁塔区大寨小学,school,14.31,34.247102,108.855915,雁塔区 大寨路 9,way,973443830,OpenStreetMap
+学校,西咸新区空港新城第一学校,school,14.34,34.413301,108.777327,,way,608397397,OpenStreetMap
+学校,莱恩启智园,kindergarten,14.38,34.23874,108.852208,雁塔区 富裕路,way,973309577,OpenStreetMap
+学校,西安外事学院北校区-龙腾书院,school,14.4,34.242227,108.854407,雁塔区 富裕路 81,way,1414718632,OpenStreetMap
+学校,陕西新东方烹饪培训学校,college,14.42,34.360855,108.848078,未央区 尚苑路,way,976710898,OpenStreetMap
+学校,育为麒麟山幼儿园,kindergarten,14.44,34.247502,108.857687,雁塔区 大寨路,way,997643584,OpenStreetMap
+学校,西安外事学院（北校区）,university,14.44,34.241245,108.854347,雁塔区 富裕路 81,way,452594096,OpenStreetMap
+学校,西咸新区空港新城枫叶学校,school,14.48,34.415546,108.775214,,way,1210584841,OpenStreetMap
+学校,空港新城花园小学,school,14.49,34.426474,108.714369,,way,1270345896,OpenStreetMap
+学校,西安工业经济职业学校,college,14.5,34.362006,108.848293,未央区 草滩十路 758,way,976997013,OpenStreetMap
+学校,贝思塔幼儿园,kindergarten,14.53,34.229412,108.84787,雁塔区,way,997516830,OpenStreetMap
+学校,西安高新区第十二小学,school,14.56,34.235951,108.852729,雁塔区 经九路,way,973309580,OpenStreetMap
+学校,西安市第五十二中学,school,14.61,34.226001,108.846409,雁塔区 鱼斗路 275,way,991743349,OpenStreetMap
+学校,西安博迪中学,school,14.75,34.228417,108.849944,雁塔区 鱼斗路 188,way,973297627,OpenStreetMap
+学校,博迪小学,school,14.83,34.248485,108.862663,雁塔区 大寨路,way,973443834,OpenStreetMap
+学校,雁塔区至臻幼儿园,kindergarten,14.83,34.249206,108.863081,雁塔区 昆明池路 2,way,973443835,OpenStreetMap
+学校,西安市雁塔区第六小学,school,14.87,34.244037,108.861009,,way,1329421634,OpenStreetMap
+学校,高新区第十四小学,school,14.88,34.219338,108.844599,雁塔区 化龙三路 2288,way,992001967,OpenStreetMap
+学校,渭丰初级中学,school,14.92,34.202739,108.595471,,way,457645117,OpenStreetMap
+学校,西安利君医药技工学校,school,14.96,34.26144,108.869289,莲湖区 丰镐西路 181,way,970610666,OpenStreetMap
+学校,陕西工业职业技术学院（新校区）,college,15.03,34.408781,108.621442,,relation,16713357,OpenStreetMap
+政府机构,沣西新城管委会,government,0.33,34.293644,108.710088,秦都区 尚业路,way,1018709805,OpenStreetMap
+政府机构,钓台街道办事处,government,0.65,34.301526,108.714848,秦都区,way,1018741366,OpenStreetMap
+政府机构,西咸新区消防救援支队沣西新城大队,fire_station,1.81,34.281878,108.702625,秦都区,way,1018214837,OpenStreetMap
+政府机构,咸阳市政协,government,3.93,34.330771,108.702944,,way,1206420880,OpenStreetMap
+政府机构,咸阳市人民政府,government,3.97,34.331314,108.704366,,node,11487022270,OpenStreetMap
+政府机构,咸阳市秦都区人民政府,government,3.99,34.331043,108.70158,秦都区 渭阳中路 1,node,11487022269,OpenStreetMap
+政府机构,沣柳路派出所,police,5.83,34.244823,108.724424,长安区 沣柳路,way,999939782,OpenStreetMap
+政府机构,西北医疗器械一厂,community_centre,6.27,34.352468,108.716225,,node,4804291023,OpenStreetMap
+政府机构,沣东新城管委会,government,6.38,34.264299,108.769728,长安区,way,1001795246,OpenStreetMap
+政府机构,大王派出所,police,6.53,34.257051,108.659011,,way,1543131609,OpenStreetMap
+政府机构,沣东消防中队,fire_station,7.78,34.255852,108.781202,长安区 王寺东街,way,1001156496,OpenStreetMap
+政府机构,西咸新区创新港消防管救援站,fire_station,7.8,34.251989,108.64616,,way,1317516095,OpenStreetMap
+政府机构,西安市公安局沣东新城分局,police,7.85,34.254721,108.781132,长安区,way,1001156490,OpenStreetMap
+政府机构,西安交通警察支队未央大队,police,9.09,34.288095,108.810501,未央区 天台八路,way,1019931478,OpenStreetMap
+政府机构,阿房宫公安检查站,police,9.64,34.253402,108.80319,长安区 连霍高速,way,998170349,OpenStreetMap
+政府机构,西安市未央区三桥街道办事处,government,10.49,34.293627,108.826203,未央区 三桥新街 139,way,1020491381,OpenStreetMap
+政府机构,三桥新街派出所,police,10.79,34.291563,108.829355,未央区 三桥新街 123,way,1020491373,OpenStreetMap
+政府机构,西安市雁塔区漳浒街道办事处,government,11.14,34.243662,108.815261,雁塔区 鱼跃路,way,997653263,OpenStreetMap
+政府机构,中共鱼化工业园工作委员会,government,11.49,34.238866,108.815993,雁塔区 富源四路,way,997653271,OpenStreetMap
+政府机构,中国邮政,post_office,12.25,34.284011,108.8445,未央区 阿房四路,node,8980017744,OpenStreetMap
+政府机构,西安邮区中心局草滩邮件处理中心,post_office,12.44,34.360334,108.823015,,node,4368954189,OpenStreetMap
+政府机构,西安市公安局雁塔分局昆明路派出所,police,12.52,34.239356,108.8296,雁塔区 富源二路 2,way,997653252,OpenStreetMap
+政府机构,西安汉长安城国家大遗址保护特区管理委员会,government,13.91,34.308064,108.862802,,way,1218226184,OpenStreetMap
+政府机构,西安市枣园派出所,police,14.07,34.273963,108.862743,莲湖区,way,970380761,OpenStreetMap
