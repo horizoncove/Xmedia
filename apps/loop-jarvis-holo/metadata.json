@@ -1,0 +1,8 @@
+{
+  "name": "LOOP JARVIS Holographic Command",
+  "description": "LOOP PARK duty-core holographic HUD adapted from the open-source JARVIS holographic interface (MIT).",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
