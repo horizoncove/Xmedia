@@ -542,7 +542,7 @@ const App: React.FC = () => {
                   </div>
               )}
               
-              <div className="absolute bottom-8 text-[10px] text-gray-600">斯塔克工业 专有技术</div>
+              <div className="absolute bottom-8 text-[10px] text-gray-600">LOOP PARK · QUANTUM COMMAND CORE</div>
           </div>
       )
   }
