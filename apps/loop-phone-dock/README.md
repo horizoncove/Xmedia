@@ -9,6 +9,22 @@ Lumi 那类「真机物理点按」底座，在这台云环境里做不出机械
 - `act("打开设置并读出型号")` 走规则规划，返回 `LOOP-PHONE`
 - 硬件规格见 `hardware-spec.md`（给以后打样，不是已制造的机器）
 
+## 模型
+
+同一套几何：
+
+- Blender 脚本：`model/build_dock.py`（底座、CoreXY 横梁、触头、手机、摄像头）
+- 导出：`model/loop-phone-dock.blend`、`model/loop-phone-dock.glb`
+- Three.js：`model/viewer.html` 加载这份 GLB
+
+```bash
+# 重新导出
+blender --background --python apps/loop-phone-dock/model/build_dock.py
+# 查看
+python3 -m http.server 8790 --directory apps/loop-phone-dock/model
+# http://127.0.0.1:8790/viewer.html
+```
+
 ## 跑起来
 
 ```bash
