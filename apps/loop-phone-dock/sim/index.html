@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <title>LOOP Phone Dock · 虚拟机</title>
+  <style>
+    body { margin: 0; background: #101418; color: #e8eef2; font-family: "Segoe UI", "PingFang SC", sans-serif; display: grid; grid-template-columns: 420px 1fr; min-height: 100vh; }
+    .phone { margin: 32px auto; width: 320px; height: 640px; border: 10px solid #222; border-radius: 36px; background: #0b0f14; position: relative; overflow: hidden; box-shadow: 0 20px 60px #0008; }
+    .title { padding: 28px 16px 8px; font-size: 13px; letter-spacing: .16em; color: #8fd; }
+    .apps { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; padding: 16px; }
+    button.app, button.row { border: 1px solid #2a9; background: #132028; color: #e8eef2; border-radius: 14px; }
+    button.app { height: 72px; font-size: 16px; }
+    button.row { display: block; width: calc(100% - 32px); margin: 8px 16px; text-align: left; padding: 16px; font-size: 16px; }
+    .bar { position: absolute; left: 16px; right: 16px; bottom: 16px; display: flex; gap: 8px; }
+    .bar input { flex: 1; background: #111; color: #fff; border: 1px solid #345; border-radius: 10px; padding: 10px; }
+    aside { padding: 28px; }
+    h1 { font-size: 22px; margin: 0 0 8px; }
+    p { color: #9ab; line-height: 1.5; }
+    pre { background: #0b0f14; padding: 12px; border-radius: 12px; overflow: auto; font-size: 12px; }
+  </style>
+</head>
+<body>
+  <div class="phone" id="phone"></div>
+  <aside>
+    <h1>虚拟底座</h1>
+    <p>左边是被控手机。研发环境没有机械臂，点按走本机 HTTP。发送只记账，不发出去。</p>
+    <pre id="log">等待服务…</pre>
+  </aside>
+  <script>
+    const phone = document.getElementById("phone");
+    const log = document.getElementById("log");
+    async function refresh() {
+      const data = await fetch("/screen").then(r => r.json());
+      log.textContent = JSON.stringify({ screen: data.screen, last_result: data.last_result, log: data.log }, null, 2);
+      const rows = data.targets.map(t => {
+        if (data.screen === "home") return `<button class="app" data-x="${t.x+10}" data-y="${t.y+10}">${t.label}</button>`;
+        return `<button class="row" data-x="${t.x+10}" data-y="${t.y+10}">${t.label}</button>`;
+      }).join("");
+      phone.innerHTML = `<div class="title">${data.title}</div>` + (data.screen === "home" ? `<div class="apps">${rows}</div>` : rows);
+      phone.querySelectorAll("button").forEach(btn => btn.onclick = () => tap(btn.dataset.x, btn.dataset.y));
+    }
+    async function tap(x, y) {
+      await fetch("/tap", { method: "POST", headers: {"Content-Type":"application/json"}, body: JSON.stringify({x:Number(x), y:Number(y)}) });
+      refresh();
+    }
+    refresh().catch(err => { log.textContent = "先运行 python3 -m dock.server\n" + err; });
+  </script>
+</body>
+</html>
