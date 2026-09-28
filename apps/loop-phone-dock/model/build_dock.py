@@ -82,13 +82,29 @@ def build() -> None:
     box("head", (0.04, 0.03, 0.02), (0.07, -0.01, 0.16), accent)
     cyl("lens", 0.008, 0.012, (0.05, 0.0, 0.16), glass, rot=(1.5708, 0, 1.2))
 
-    # Camera
-    bpy.ops.object.camera_add(location=(0.28, -0.32, 0.22), rotation=(1.15, 0, 0.7))
+    # Camera: high three-quarter, so the phone face and rails read clearly
+    from mathutils import Vector
+
+    bpy.ops.mesh.primitive_plane_add(size=1.4, location=(0, 0, -0.012))
+    floor = bpy.context.active_object
+    floor.name = "floor"
+    floor_mat = mat("Floor", (0.05, 0.06, 0.07, 1), 0.0, 0.9)
+    floor.data.materials.append(floor_mat)
+
+    bpy.ops.object.camera_add(location=(0.55, -0.72, 0.48))
     cam = bpy.context.active_object
+    direction = Vector((0.0, 0.02, 0.09)) - cam.location
+    cam.rotation_euler = direction.to_track_quat("-Z", "Y").to_euler()
+    cam.data.lens = 45
     bpy.context.scene.camera = cam
-    bpy.ops.object.light_add(type="AREA", location=(0.2, -0.2, 0.35))
+    world = bpy.data.worlds.new("Studio")
+    bpy.context.scene.world = world
+    world.use_nodes = True
+    world.node_tree.nodes["Background"].inputs[0].default_value = (0.03, 0.04, 0.05, 1)
+    bpy.ops.object.light_add(type="AREA", location=(0.4, -0.3, 0.7))
     light = bpy.context.active_object
-    light.data.energy = 250
+    light.data.energy = 500
+    light.data.size = 0.5
 
     blend_path = OUT / "loop-phone-dock.blend"
     glb_path = OUT / "loop-phone-dock.glb"
